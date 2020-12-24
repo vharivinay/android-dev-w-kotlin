@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sunrise.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\drawable\\sunrise.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_weather_round.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_weather_round.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_weather_round.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_weather_round.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_weather_round.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_weather_round.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_weather_round.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_weather_round.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\drawable_location.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\drawable\\location.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_weather.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_weather.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rain.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\drawable\\rain.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_visibility_24dp.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\drawable\\ic_visibility_24dp.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_weather_foreground.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\drawable\\ic_launcher_weather_foreground.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_weather.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_weather.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wind.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\drawable\\wind.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\drawable_evening.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\drawable\\evening.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_weather.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_weather.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\drawable_morning.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\drawable\\morning.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_weather.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_weather.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sunset.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\drawable\\sunset.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_weather_round.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_weather_round.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mist.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\drawable\\mist.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_weather.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_weather.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_custom_progress.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\layout\\dialog_custom_progress.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_maps.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\drawable_storm.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\drawable\\storm.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_weather.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_weather.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\drawable_temperature.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\drawable\\temperature.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cloud.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\drawable\\cloud.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_screen_image_placeholder.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\drawable\\add_screen_image_placeholder.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sunny.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\drawable\\sunny.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\drawable_snowflake.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\drawable\\snowflake.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\drawable_humidity.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\drawable\\humidity.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_weather_round.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_weather_round.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\drawable_close.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\drawable\\close.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_refresh_24dp.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\SimplySunny\\app\\src\\main\\res\\drawable\\ic_refresh_24dp.xml"
+    }
+]

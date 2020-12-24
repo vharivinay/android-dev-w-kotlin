@@ -1,0 +1,181 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="earth.devgalileo.weatherapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\myDocuments\Aroura\AndroidStudio\SimplySunny\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\myDocuments\Aroura\AndroidStudio\SimplySunny\app\src\main\AndroidManifest.xml
+10
+11    <!--
+12         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+13         Google Maps Android API v2, but you must specify either coarse or fine
+14         location permissions for the 'MyLocation' functionality.
+15    -->
+16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+16-->D:\myDocuments\Aroura\AndroidStudio\SimplySunny\app\src\main\AndroidManifest.xml:10:5-79
+16-->D:\myDocuments\Aroura\AndroidStudio\SimplySunny\app\src\main\AndroidManifest.xml:10:22-76
+17    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+17-->D:\myDocuments\Aroura\AndroidStudio\SimplySunny\app\src\main\AndroidManifest.xml:11:5-81
+17-->D:\myDocuments\Aroura\AndroidStudio\SimplySunny\app\src\main\AndroidManifest.xml:11:22-78
+18    <uses-permission android:name="android.permission.INTERNET" />
+18-->D:\myDocuments\Aroura\AndroidStudio\SimplySunny\app\src\main\AndroidManifest.xml:12:5-67
+18-->D:\myDocuments\Aroura\AndroidStudio\SimplySunny\app\src\main\AndroidManifest.xml:12:22-64
+19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+19-->D:\myDocuments\Aroura\AndroidStudio\SimplySunny\app\src\main\AndroidManifest.xml:13:5-79
+19-->D:\myDocuments\Aroura\AndroidStudio\SimplySunny\app\src\main\AndroidManifest.xml:13:22-76
+20    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+20-->D:\myDocuments\Aroura\AndroidStudio\SimplySunny\app\src\main\AndroidManifest.xml:14:5-76
+20-->D:\myDocuments\Aroura\AndroidStudio\SimplySunny\app\src\main\AndroidManifest.xml:14:22-73
+21
+22    <uses-feature
+22-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\05fd23014d14d5f8988d77be1fbc46a9\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+23        android:glEsVersion="0x00020000"
+23-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\05fd23014d14d5f8988d77be1fbc46a9\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+24        android:required="true" />
+24-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\05fd23014d14d5f8988d77be1fbc46a9\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+25
+26    <application
+26-->D:\myDocuments\Aroura\AndroidStudio\SimplySunny\app\src\main\AndroidManifest.xml:16:5-48:19
+27        android:allowBackup="true"
+27-->D:\myDocuments\Aroura\AndroidStudio\SimplySunny\app\src\main\AndroidManifest.xml:17:9-35
+28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+28-->[androidx.core:core:1.2.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\a3eef63a1949ce565e26a68908e433ce\core-1.2.0\AndroidManifest.xml:24:18-86
+29        android:debuggable="true"
+30        android:icon="@mipmap/ic_launcher_weather"
+30-->D:\myDocuments\Aroura\AndroidStudio\SimplySunny\app\src\main\AndroidManifest.xml:18:9-51
+31        android:label="@string/app_name"
+31-->D:\myDocuments\Aroura\AndroidStudio\SimplySunny\app\src\main\AndroidManifest.xml:19:9-41
+32        android:roundIcon="@mipmap/ic_launcher_weather_round"
+32-->D:\myDocuments\Aroura\AndroidStudio\SimplySunny\app\src\main\AndroidManifest.xml:20:9-62
+33        android:supportsRtl="true"
+33-->D:\myDocuments\Aroura\AndroidStudio\SimplySunny\app\src\main\AndroidManifest.xml:21:9-35
+34        android:theme="@style/AppTheme" >
+34-->D:\myDocuments\Aroura\AndroidStudio\SimplySunny\app\src\main\AndroidManifest.xml:22:9-40
+35
+36        <!--
+37             The API key for Google Maps-based APIs is defined as a string resource.
+38             (See the file "res/values/google_maps_api.xml").
+39             Note that the API key is linked to the encryption key used to sign the APK.
+40             You need a different API key for each encryption key, including the release key that is used to
+41             sign the APK for publishing.
+42             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+43        -->
+44        <meta-data
+44-->D:\myDocuments\Aroura\AndroidStudio\SimplySunny\app\src\main\AndroidManifest.xml:32:9-34:55
+45            android:name="com.google.android.geo.API_KEY"
+45-->D:\myDocuments\Aroura\AndroidStudio\SimplySunny\app\src\main\AndroidManifest.xml:33:13-58
+46            android:value="@string/google_maps_key" />
+46-->D:\myDocuments\Aroura\AndroidStudio\SimplySunny\app\src\main\AndroidManifest.xml:34:13-52
+47
+48        <activity
+48-->D:\myDocuments\Aroura\AndroidStudio\SimplySunny\app\src\main\AndroidManifest.xml:36:9-38:58
+49            android:name="earth.devgalileo.weatherapp.MapsActivity"
+49-->D:\myDocuments\Aroura\AndroidStudio\SimplySunny\app\src\main\AndroidManifest.xml:37:13-41
+50            android:label="@string/title_activity_maps" />
+50-->D:\myDocuments\Aroura\AndroidStudio\SimplySunny\app\src\main\AndroidManifest.xml:38:13-56
+51        <activity
+51-->D:\myDocuments\Aroura\AndroidStudio\SimplySunny\app\src\main\AndroidManifest.xml:39:9-47:20
+52            android:name="earth.devgalileo.weatherapp.activities.MainActivity"
+52-->D:\myDocuments\Aroura\AndroidStudio\SimplySunny\app\src\main\AndroidManifest.xml:40:13-52
+53            android:screenOrientation="portrait" >
+53-->D:\myDocuments\Aroura\AndroidStudio\SimplySunny\app\src\main\AndroidManifest.xml:41:13-49
+54            <intent-filter>
+54-->D:\myDocuments\Aroura\AndroidStudio\SimplySunny\app\src\main\AndroidManifest.xml:42:13-46:29
+55                <action android:name="android.intent.action.MAIN" />
+55-->D:\myDocuments\Aroura\AndroidStudio\SimplySunny\app\src\main\AndroidManifest.xml:43:17-69
+55-->D:\myDocuments\Aroura\AndroidStudio\SimplySunny\app\src\main\AndroidManifest.xml:43:25-66
+56
+57                <category android:name="android.intent.category.LAUNCHER" />
+57-->D:\myDocuments\Aroura\AndroidStudio\SimplySunny\app\src\main\AndroidManifest.xml:45:17-77
+57-->D:\myDocuments\Aroura\AndroidStudio\SimplySunny\app\src\main\AndroidManifest.xml:45:27-74
+58            </intent-filter>
+59        </activity>
+60        <activity
+60-->[com.karumi:dexter:6.1.2] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\5310e5fa424506f3709aa1ce7058b07e\jetified-dexter-6.1.2\AndroidManifest.xml:27:9-29:72
+61            android:name="com.karumi.dexter.DexterActivity"
+61-->[com.karumi:dexter:6.1.2] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\5310e5fa424506f3709aa1ce7058b07e\jetified-dexter-6.1.2\AndroidManifest.xml:28:13-60
+62            android:theme="@style/Dexter.Internal.Theme.Transparent" />
+62-->[com.karumi:dexter:6.1.2] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\5310e5fa424506f3709aa1ce7058b07e\jetified-dexter-6.1.2\AndroidManifest.xml:29:13-69
+63        <activity
+63-->[com.google.android.libraries.places:places:2.2.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\0312c2aca91e967dcf7cad0d81e9a43b\jetified-places-2.2.0\AndroidManifest.xml:14:9-20:20
+64            android:name="com.google.android.libraries.places.widget.AutocompleteActivity"
+64-->[com.google.android.libraries.places:places:2.2.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\0312c2aca91e967dcf7cad0d81e9a43b\jetified-places-2.2.0\AndroidManifest.xml:15:13-91
+65            android:exported="false"
+65-->[com.google.android.libraries.places:places:2.2.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\0312c2aca91e967dcf7cad0d81e9a43b\jetified-places-2.2.0\AndroidManifest.xml:16:13-37
+66            android:label="@string/places_autocomplete_label"
+66-->[com.google.android.libraries.places:places:2.2.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\0312c2aca91e967dcf7cad0d81e9a43b\jetified-places-2.2.0\AndroidManifest.xml:17:13-62
+67            android:theme="@style/PlacesAutocompleteOverlay"
+67-->[com.google.android.libraries.places:places:2.2.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\0312c2aca91e967dcf7cad0d81e9a43b\jetified-places-2.2.0\AndroidManifest.xml:18:13-61
+68            android:windowSoftInputMode="adjustResize" >
+68-->[com.google.android.libraries.places:places:2.2.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\0312c2aca91e967dcf7cad0d81e9a43b\jetified-places-2.2.0\AndroidManifest.xml:19:13-55
+69        </activity> <!-- Needs to be explicitly declared on P+ -->
+70        <uses-library
+70-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\05fd23014d14d5f8988d77be1fbc46a9\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+71            android:name="org.apache.http.legacy"
+71-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\05fd23014d14d5f8988d77be1fbc46a9\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+72            android:required="false" />
+72-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\05fd23014d14d5f8988d77be1fbc46a9\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+73
+74        <activity
+74-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\d39ec00c07e9cc900cbdf184774bcb6f\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+75            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+75-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\d39ec00c07e9cc900cbdf184774bcb6f\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+76            android:exported="false"
+76-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\d39ec00c07e9cc900cbdf184774bcb6f\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+77            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+77-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\d39ec00c07e9cc900cbdf184774bcb6f\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+78
+79        <meta-data
+79-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\862cde625aad1fbef0a39de3e07c14e3\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+80            android:name="com.google.android.gms.version"
+80-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\862cde625aad1fbef0a39de3e07c14e3\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+81            android:value="@integer/google_play_services_version" />
+81-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\862cde625aad1fbef0a39de3e07c14e3\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+82
+83        <service
+83-->[com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\75c7d9e9c3e5198567eaca71bf2d2c2d\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:29:9-35:19
+84            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+84-->[com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\75c7d9e9c3e5198567eaca71bf2d2c2d\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:30:13-103
+85            android:exported="false" >
+85-->[com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\75c7d9e9c3e5198567eaca71bf2d2c2d\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:31:13-37
+86            <meta-data
+86-->[com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\75c7d9e9c3e5198567eaca71bf2d2c2d\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:32:13-34:39
+87                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+87-->[com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\75c7d9e9c3e5198567eaca71bf2d2c2d\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:33:17-94
+88                android:value="cct" />
+88-->[com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\75c7d9e9c3e5198567eaca71bf2d2c2d\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:34:17-36
+89        </service>
+90        <service
+90-->[com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\556f0a670925ef0b1ed14696a39dbb1e\jetified-transport-runtime-2.1.0\AndroidManifest.xml:26:9-30:19
+91            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+91-->[com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\556f0a670925ef0b1ed14696a39dbb1e\jetified-transport-runtime-2.1.0\AndroidManifest.xml:27:13-117
+92            android:exported="false"
+92-->[com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\556f0a670925ef0b1ed14696a39dbb1e\jetified-transport-runtime-2.1.0\AndroidManifest.xml:28:13-37
+93            android:permission="android.permission.BIND_JOB_SERVICE" >
+93-->[com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\556f0a670925ef0b1ed14696a39dbb1e\jetified-transport-runtime-2.1.0\AndroidManifest.xml:29:13-69
+94        </service>
+95
+96        <receiver
+96-->[com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\556f0a670925ef0b1ed14696a39dbb1e\jetified-transport-runtime-2.1.0\AndroidManifest.xml:32:9-34:40
+97            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+97-->[com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\556f0a670925ef0b1ed14696a39dbb1e\jetified-transport-runtime-2.1.0\AndroidManifest.xml:33:13-132
+98            android:exported="false" />
+98-->[com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\556f0a670925ef0b1ed14696a39dbb1e\jetified-transport-runtime-2.1.0\AndroidManifest.xml:34:13-37
+99
+100        <provider
+100-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\cadd0183903727f145c4a767897d06ac\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:23:9-27:43
+101            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+101-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\cadd0183903727f145c4a767897d06ac\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:24:13-79
+102            android:authorities="earth.devgalileo.weatherapp.lifecycle-process"
+102-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\cadd0183903727f145c4a767897d06ac\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:25:13-69
+103            android:exported="false"
+103-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\cadd0183903727f145c4a767897d06ac\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:26:13-37
+104            android:multiprocess="true" />
+104-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\cadd0183903727f145c4a767897d06ac\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:27:13-40
+105    </application>
+106
+107</manifest>

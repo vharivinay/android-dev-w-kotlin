@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "113152577658",
+    "firebase_url": "https://assimilator-login-signup.firebaseio.com",
+    "project_id": "assimilator-login-signup",
+    "storage_bucket": "assimilator-login-signup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113152577658:android:df3abb9bac906e9d4c6bc3",
+        "android_client_info": {
+          "package_name": "earth.devgalileo.assimilator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113152577658-ljvhikpfhmp93prfv4jf0k47gsgmqdlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5fK5C75AP_-t2AW_upF1Sm4cmNvTB3bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113152577658-ljvhikpfhmp93prfv4jf0k47gsgmqdlo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

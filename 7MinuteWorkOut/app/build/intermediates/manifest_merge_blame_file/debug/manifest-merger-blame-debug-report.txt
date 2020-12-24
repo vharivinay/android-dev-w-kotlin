@@ -1,0 +1,83 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="earth.devgalileo.a7minuteworkout"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\myDocuments\Aroura\AndroidStudio\7MinuteWorkOut\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\myDocuments\Aroura\AndroidStudio\7MinuteWorkOut\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\myDocuments\Aroura\AndroidStudio\7MinuteWorkOut\app\src\main\AndroidManifest.xml:5:5-37:19
+12        android:allowBackup="true"
+12-->D:\myDocuments\Aroura\AndroidStudio\7MinuteWorkOut\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.2.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\a3eef63a1949ce565e26a68908e433ce\core-1.2.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_user_launcher"
+15-->D:\myDocuments\Aroura\AndroidStudio\7MinuteWorkOut\app\src\main\AndroidManifest.xml:7:9-48
+16        android:label="@string/app_name"
+16-->D:\myDocuments\Aroura\AndroidStudio\7MinuteWorkOut\app\src\main\AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_user_launcher_round"
+17-->D:\myDocuments\Aroura\AndroidStudio\7MinuteWorkOut\app\src\main\AndroidManifest.xml:9:9-59
+18        android:supportsRtl="true"
+18-->D:\myDocuments\Aroura\AndroidStudio\7MinuteWorkOut\app\src\main\AndroidManifest.xml:10:9-35
+19        android:theme="@style/Theme.MaterialComponents" >
+19-->D:\myDocuments\Aroura\AndroidStudio\7MinuteWorkOut\app\src\main\AndroidManifest.xml:11:9-56
+20        <activity
+20-->D:\myDocuments\Aroura\AndroidStudio\7MinuteWorkOut\app\src\main\AndroidManifest.xml:12:9-14:80
+21            android:name="earth.devgalileo.a7minuteworkout.HistoryActivity"
+21-->D:\myDocuments\Aroura\AndroidStudio\7MinuteWorkOut\app\src\main\AndroidManifest.xml:12:19-50
+22            android:screenOrientation="portrait"
+22-->D:\myDocuments\Aroura\AndroidStudio\7MinuteWorkOut\app\src\main\AndroidManifest.xml:13:13-49
+23            android:theme="@style/Theme.MaterialComponents.Light.NoActionBar" />
+23-->D:\myDocuments\Aroura\AndroidStudio\7MinuteWorkOut\app\src\main\AndroidManifest.xml:14:13-78
+24        <activity
+24-->D:\myDocuments\Aroura\AndroidStudio\7MinuteWorkOut\app\src\main\AndroidManifest.xml:15:9-18:81
+25            android:name="earth.devgalileo.a7minuteworkout.calcActivity"
+25-->D:\myDocuments\Aroura\AndroidStudio\7MinuteWorkOut\app\src\main\AndroidManifest.xml:16:13-41
+26            android:screenOrientation="portrait"
+26-->D:\myDocuments\Aroura\AndroidStudio\7MinuteWorkOut\app\src\main\AndroidManifest.xml:17:13-49
+27            android:theme="@style/Theme.MaterialComponents.Light.NoActionBar" />
+27-->D:\myDocuments\Aroura\AndroidStudio\7MinuteWorkOut\app\src\main\AndroidManifest.xml:18:13-78
+28        <activity
+28-->D:\myDocuments\Aroura\AndroidStudio\7MinuteWorkOut\app\src\main\AndroidManifest.xml:19:9-22:81
+29            android:name="earth.devgalileo.a7minuteworkout.FinishActivity"
+29-->D:\myDocuments\Aroura\AndroidStudio\7MinuteWorkOut\app\src\main\AndroidManifest.xml:20:13-43
+30            android:screenOrientation="portrait"
+30-->D:\myDocuments\Aroura\AndroidStudio\7MinuteWorkOut\app\src\main\AndroidManifest.xml:21:13-49
+31            android:theme="@style/Theme.MaterialComponents.Light.NoActionBar" />
+31-->D:\myDocuments\Aroura\AndroidStudio\7MinuteWorkOut\app\src\main\AndroidManifest.xml:22:13-78
+32        <activity
+32-->D:\myDocuments\Aroura\AndroidStudio\7MinuteWorkOut\app\src\main\AndroidManifest.xml:23:9-26:81
+33            android:name="earth.devgalileo.a7minuteworkout.ExerciseActivity"
+33-->D:\myDocuments\Aroura\AndroidStudio\7MinuteWorkOut\app\src\main\AndroidManifest.xml:24:13-45
+34            android:screenOrientation="portrait"
+34-->D:\myDocuments\Aroura\AndroidStudio\7MinuteWorkOut\app\src\main\AndroidManifest.xml:25:13-49
+35            android:theme="@style/Theme.MaterialComponents.Light.NoActionBar" />
+35-->D:\myDocuments\Aroura\AndroidStudio\7MinuteWorkOut\app\src\main\AndroidManifest.xml:26:13-78
+36        <activity
+36-->D:\myDocuments\Aroura\AndroidStudio\7MinuteWorkOut\app\src\main\AndroidManifest.xml:27:9-36:20
+37            android:name="earth.devgalileo.a7minuteworkout.MainActivity"
+37-->D:\myDocuments\Aroura\AndroidStudio\7MinuteWorkOut\app\src\main\AndroidManifest.xml:28:13-41
+38            android:screenOrientation="portrait"
+38-->D:\myDocuments\Aroura\AndroidStudio\7MinuteWorkOut\app\src\main\AndroidManifest.xml:29:13-49
+39            android:theme="@style/Theme.MaterialComponents.Light.NoActionBar" >
+39-->D:\myDocuments\Aroura\AndroidStudio\7MinuteWorkOut\app\src\main\AndroidManifest.xml:30:13-78
+40            <intent-filter>
+40-->D:\myDocuments\Aroura\AndroidStudio\7MinuteWorkOut\app\src\main\AndroidManifest.xml:31:13-35:29
+41                <action android:name="android.intent.action.MAIN" />
+41-->D:\myDocuments\Aroura\AndroidStudio\7MinuteWorkOut\app\src\main\AndroidManifest.xml:32:17-69
+41-->D:\myDocuments\Aroura\AndroidStudio\7MinuteWorkOut\app\src\main\AndroidManifest.xml:32:25-66
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->D:\myDocuments\Aroura\AndroidStudio\7MinuteWorkOut\app\src\main\AndroidManifest.xml:34:17-77
+43-->D:\myDocuments\Aroura\AndroidStudio\7MinuteWorkOut\app\src\main\AndroidManifest.xml:34:27-74
+44            </intent-filter>
+45        </activity>
+46    </application>
+47
+48</manifest>

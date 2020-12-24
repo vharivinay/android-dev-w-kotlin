@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_gallery.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\ic_gallery.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\xml_paths.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\xml\\paths.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pallet_normal.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\pallet_normal.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_medium.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\medium.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_brush_size.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\layout\\dialog_brush_size.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_custom_progress.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\layout\\dialog_custom_progress.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_imagebutton_random.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\imagebutton_random.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_background.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_share.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\ic_share.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_imagebutton_white.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\imagebutton_white.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_undo.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\ic_undo.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_imagebutton_pink.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\imagebutton_pink.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_save.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\ic_save.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_xxsmall.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\xxsmall.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_small.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\small.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_imagebutton_red.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\imagebutton_red.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_imagebutton_skin.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\imagebutton_skin.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_image_view.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\background_image_view.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_clear.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\ic_clear.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_brush.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\ic_brush.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_app.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\ic_app.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_imagebutton_lollipop.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\imagebutton_lollipop.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_xsmall.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\xsmall.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_imagebutton_black.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\imagebutton_black.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pallet_pressed.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\pallet_pressed.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_redo.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\ic_redo.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_imagebutton_teal.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\imagebutton_teal.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_imagebutton_grey.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\imagebutton_grey.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_imagebutton_yellow.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\imagebutton_yellow.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pallet_background.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\pallet_background.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fl_background_drawing_view.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\fl_background_drawing_view.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_imagebutton_green.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\imagebutton_green.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image.jpg.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\image.jpg"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_large.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\large.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_imagebutton_blue.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\imagebutton_blue.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_drawing_view_layout.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\drawable\\background_drawing_view_layout.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\ProtoDraw\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    }
+]

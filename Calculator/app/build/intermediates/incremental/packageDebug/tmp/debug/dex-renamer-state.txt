@@ -1,0 +1,4 @@
+#Sat Apr 11 02:49:06 CEST 2020
+base.0=D\:\\myDocuments\\Aroura\\AndroidStudio\\Calculator\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

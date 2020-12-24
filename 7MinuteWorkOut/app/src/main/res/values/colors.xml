@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#131419</color>
+    <color name="colorPrimaryDark">#22252B</color>
+    <color name="colorAccent">#0A2F4A</color>
+    <color name="colorBackground">#3A506B</color>
+
+    <color name="ColorHighlighted">#124668</color>
+    <color name="ColorWhite">#FFFFFF</color>
+    <color name="ColorBlack">#000000</color>
+    <color name="ColorLightGray">#909090</color>
+    <color name="ColorGray">#5C5C5C</color>
+    <color name="ColorDarkGray">#3F3F3F</color>
+    <color name="toolbar_color_control_normal">#000000</color>
+    <color name="circular_progress_gray">#D4DEE7</color>
+
+    <color name="rg_background">#ECEDEF</color>
+    <color name="rg_border">#9AA2AF</color>
+
+</resources>

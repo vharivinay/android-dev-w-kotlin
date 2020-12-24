@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Age Old App</string>
+    <string name="activity_title">CALCULATE YOUR AGE</string>
+    <string name="btn_text">SELECT DATE</string>
+    <string name="You_are">You are:</string>
+    <string name="image">Calender Image</string>
+</resources>

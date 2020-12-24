@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_flag_of_denmark.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\src\\main\\res\\drawable-v24\\ic_flag_of_denmark.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_result.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\src\\main\\res\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_default_option_border_bg.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\src\\main\\res\\drawable\\default_option_border_bg.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_flag_of_belgium.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\src\\main\\res\\drawable-v24\\ic_flag_of_belgium.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_flag_of_australia.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\src\\main\\res\\drawable-v24\\ic_flag_of_australia.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selected_option_border_bg.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\src\\main\\res\\drawable\\selected_option_border_bg.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_quiz_questions.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\src\\main\\res\\layout\\activity_quiz_questions.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_trophy.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\src\\main\\res\\drawable-v24\\ic_trophy.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_bg.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\src\\main\\res\\drawable-v24\\ic_bg.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_flag_of_argentina.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\src\\main\\res\\drawable-v24\\ic_flag_of_argentina.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wrong_option_border_bg.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\src\\main\\res\\drawable\\wrong_option_border_bg.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_flag_of_brazil.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\src\\main\\res\\drawable-v24\\ic_flag_of_brazil.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_result_activiy.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\src\\main\\res\\layout\\activity_result_activiy.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_flag_of_fiji.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\src\\main\\res\\drawable-v24\\ic_flag_of_fiji.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_flag_of_germany.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\src\\main\\res\\drawable-v24\\ic_flag_of_germany.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_flag_of_india.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\src\\main\\res\\drawable-v24\\ic_flag_of_india.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_flag_of_new_zealand.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\src\\main\\res\\drawable-v24\\ic_flag_of_new_zealand.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_correct_option_border_bg.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\src\\main\\res\\drawable\\correct_option_border_bg.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_flag_of_kuwait.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\theQuizApp\\app\\src\\main\\res\\drawable-v24\\ic_flag_of_kuwait.png"
+    }
+]

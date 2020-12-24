@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Simply Sunny</string>
+
+    <string name="please_wait">Please Wait&#8230;</string>
+
+    <string name="image_contentDescription">image</string>
+    <string name="km_per_hour">KM/Hour</string>
+    <string name="visibility_distance">KM</string>
+
+    <string name="action_refresh">Refresh</string>
+    <string name="sunset">Sunset</string>
+    <string name="sunrise">Sunrise</string>
+</resources>

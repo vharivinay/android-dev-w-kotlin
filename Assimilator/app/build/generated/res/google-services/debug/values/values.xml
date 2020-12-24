@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">113152577658-ljvhikpfhmp93prfv4jf0k47gsgmqdlo.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://assimilator-login-signup.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">113152577658</string>
+    <string name="google_api_key" translatable="false">AIzaSyB5fK5C75AP_-t2AW_upF1Sm4cmNvTB3bs</string>
+    <string name="google_app_id" translatable="false">1:113152577658:android:df3abb9bac906e9d4c6bc3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB5fK5C75AP_-t2AW_upF1Sm4cmNvTB3bs</string>
+    <string name="google_storage_bucket" translatable="false">assimilator-login-signup.appspot.com</string>
+    <string name="project_id" translatable="false">assimilator-login-signup</string>
+</resources>

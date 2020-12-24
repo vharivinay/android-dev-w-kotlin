@@ -1,0 +1,87 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="earth.devgalileo.weatherapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\myDocuments\Aroura\AndroidStudio\WeatherApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\myDocuments\Aroura\AndroidStudio\WeatherApp\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+11-->D:\myDocuments\Aroura\AndroidStudio\WeatherApp\app\src\main\AndroidManifest.xml:5:5-78
+11-->D:\myDocuments\Aroura\AndroidStudio\WeatherApp\app\src\main\AndroidManifest.xml:5:22-76
+12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+12-->D:\myDocuments\Aroura\AndroidStudio\WeatherApp\app\src\main\AndroidManifest.xml:6:5-80
+12-->D:\myDocuments\Aroura\AndroidStudio\WeatherApp\app\src\main\AndroidManifest.xml:6:22-78
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->D:\myDocuments\Aroura\AndroidStudio\WeatherApp\app\src\main\AndroidManifest.xml:8:5-66
+13-->D:\myDocuments\Aroura\AndroidStudio\WeatherApp\app\src\main\AndroidManifest.xml:8:22-64
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->D:\myDocuments\Aroura\AndroidStudio\WeatherApp\app\src\main\AndroidManifest.xml:9:5-78
+14-->D:\myDocuments\Aroura\AndroidStudio\WeatherApp\app\src\main\AndroidManifest.xml:9:22-76
+15    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+15-->D:\myDocuments\Aroura\AndroidStudio\WeatherApp\app\src\main\AndroidManifest.xml:10:5-75
+15-->D:\myDocuments\Aroura\AndroidStudio\WeatherApp\app\src\main\AndroidManifest.xml:10:22-73
+16
+17    <application
+17-->D:\myDocuments\Aroura\AndroidStudio\WeatherApp\app\src\main\AndroidManifest.xml:13:5-28:19
+18        android:allowBackup="true"
+18-->D:\myDocuments\Aroura\AndroidStudio\WeatherApp\app\src\main\AndroidManifest.xml:14:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.2.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\a3eef63a1949ce565e26a68908e433ce\core-1.2.0\AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:icon="@mipmap/ic_launcher_weather"
+21-->D:\myDocuments\Aroura\AndroidStudio\WeatherApp\app\src\main\AndroidManifest.xml:15:9-51
+22        android:label="@string/app_name"
+22-->D:\myDocuments\Aroura\AndroidStudio\WeatherApp\app\src\main\AndroidManifest.xml:16:9-41
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->D:\myDocuments\Aroura\AndroidStudio\WeatherApp\app\src\main\AndroidManifest.xml:17:9-54
+24        android:supportsRtl="true"
+24-->D:\myDocuments\Aroura\AndroidStudio\WeatherApp\app\src\main\AndroidManifest.xml:18:9-35
+25        android:testOnly="true"
+26        android:theme="@style/AppTheme" >
+26-->D:\myDocuments\Aroura\AndroidStudio\WeatherApp\app\src\main\AndroidManifest.xml:19:9-40
+27        <activity
+27-->D:\myDocuments\Aroura\AndroidStudio\WeatherApp\app\src\main\AndroidManifest.xml:20:9-27:20
+28            android:name="earth.devgalileo.weatherapp.activities.MainActivity"
+28-->D:\myDocuments\Aroura\AndroidStudio\WeatherApp\app\src\main\AndroidManifest.xml:20:19-58
+29            android:screenOrientation="portrait" >
+29-->D:\myDocuments\Aroura\AndroidStudio\WeatherApp\app\src\main\AndroidManifest.xml:21:13-49
+30            <intent-filter>
+30-->D:\myDocuments\Aroura\AndroidStudio\WeatherApp\app\src\main\AndroidManifest.xml:22:13-26:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->D:\myDocuments\Aroura\AndroidStudio\WeatherApp\app\src\main\AndroidManifest.xml:23:17-69
+31-->D:\myDocuments\Aroura\AndroidStudio\WeatherApp\app\src\main\AndroidManifest.xml:23:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->D:\myDocuments\Aroura\AndroidStudio\WeatherApp\app\src\main\AndroidManifest.xml:25:17-77
+33-->D:\myDocuments\Aroura\AndroidStudio\WeatherApp\app\src\main\AndroidManifest.xml:25:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity
+36-->[com.karumi:dexter:6.1.2] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\5310e5fa424506f3709aa1ce7058b07e\jetified-dexter-6.1.2\AndroidManifest.xml:27:9-29:72
+37            android:name="com.karumi.dexter.DexterActivity"
+37-->[com.karumi:dexter:6.1.2] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\5310e5fa424506f3709aa1ce7058b07e\jetified-dexter-6.1.2\AndroidManifest.xml:28:13-60
+38            android:theme="@style/Dexter.Internal.Theme.Transparent" />
+38-->[com.karumi:dexter:6.1.2] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\5310e5fa424506f3709aa1ce7058b07e\jetified-dexter-6.1.2\AndroidManifest.xml:29:13-69
+39        <activity
+39-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\d39ec00c07e9cc900cbdf184774bcb6f\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+40            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+40-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\d39ec00c07e9cc900cbdf184774bcb6f\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+41            android:exported="false"
+41-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\d39ec00c07e9cc900cbdf184774bcb6f\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+42            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+42-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\d39ec00c07e9cc900cbdf184774bcb6f\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+43
+44        <meta-data
+44-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\862cde625aad1fbef0a39de3e07c14e3\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+45            android:name="com.google.android.gms.version"
+45-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\862cde625aad1fbef0a39de3e07c14e3\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+46            android:value="@integer/google_play_services_version" />
+46-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\862cde625aad1fbef0a39de3e07c14e3\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+47    </application>
+48
+49</manifest>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProtoDraw</string>
+    <string name="picture_save_success">Saved Successfully</string>
+    <string name="picture_save_error">Save Failed</string>
+</resources>

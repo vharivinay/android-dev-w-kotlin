@@ -1,0 +1,81 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="earth.devgalileo.protodraw"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\myDocuments\Aroura\AndroidStudio\ProtoDraw\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\myDocuments\Aroura\AndroidStudio\ProtoDraw\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->D:\myDocuments\Aroura\AndroidStudio\ProtoDraw\app\src\main\AndroidManifest.xml:5:5-80
+11-->D:\myDocuments\Aroura\AndroidStudio\ProtoDraw\app\src\main\AndroidManifest.xml:5:22-77
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->D:\myDocuments\Aroura\AndroidStudio\ProtoDraw\app\src\main\AndroidManifest.xml:6:5-80
+12-->D:\myDocuments\Aroura\AndroidStudio\ProtoDraw\app\src\main\AndroidManifest.xml:6:22-78
+13
+14    <application
+14-->D:\myDocuments\Aroura\AndroidStudio\ProtoDraw\app\src\main\AndroidManifest.xml:7:5-37:19
+15        android:allowBackup="true"
+15-->D:\myDocuments\Aroura\AndroidStudio\ProtoDraw\app\src\main\AndroidManifest.xml:8:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.2.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\7ebbd828a0332ce53b13c092b4ec198f\core-1.2.0\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:icon="@drawable/ic_app"
+18-->D:\myDocuments\Aroura\AndroidStudio\ProtoDraw\app\src\main\AndroidManifest.xml:9:9-40
+19        android:label="@string/app_name"
+19-->D:\myDocuments\Aroura\AndroidStudio\ProtoDraw\app\src\main\AndroidManifest.xml:10:9-41
+20        android:roundIcon="@drawable/ic_app"
+20-->D:\myDocuments\Aroura\AndroidStudio\ProtoDraw\app\src\main\AndroidManifest.xml:11:9-45
+21        android:supportsRtl="true"
+21-->D:\myDocuments\Aroura\AndroidStudio\ProtoDraw\app\src\main\AndroidManifest.xml:12:9-35
+22        android:testOnly="true"
+23        android:theme="@style/AppTheme" >
+23-->D:\myDocuments\Aroura\AndroidStudio\ProtoDraw\app\src\main\AndroidManifest.xml:13:9-40
+24        <activity
+24-->D:\myDocuments\Aroura\AndroidStudio\ProtoDraw\app\src\main\AndroidManifest.xml:14:9-23:20
+25            android:name="earth.devgalileo.protodraw.MainActivity"
+25-->D:\myDocuments\Aroura\AndroidStudio\ProtoDraw\app\src\main\AndroidManifest.xml:14:19-47
+26            android:screenOrientation="portrait" >
+26-->D:\myDocuments\Aroura\AndroidStudio\ProtoDraw\app\src\main\AndroidManifest.xml:15:13-49
+27            <intent-filter>
+27-->D:\myDocuments\Aroura\AndroidStudio\ProtoDraw\app\src\main\AndroidManifest.xml:16:13-22:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->D:\myDocuments\Aroura\AndroidStudio\ProtoDraw\app\src\main\AndroidManifest.xml:17:17-69
+28-->D:\myDocuments\Aroura\AndroidStudio\ProtoDraw\app\src\main\AndroidManifest.xml:17:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->D:\myDocuments\Aroura\AndroidStudio\ProtoDraw\app\src\main\AndroidManifest.xml:19:17-77
+30-->D:\myDocuments\Aroura\AndroidStudio\ProtoDraw\app\src\main\AndroidManifest.xml:19:27-74
+31                <category android:name="android.intent.category.DEFAULT" />
+31-->D:\myDocuments\Aroura\AndroidStudio\ProtoDraw\app\src\main\AndroidManifest.xml:20:17-75
+31-->D:\myDocuments\Aroura\AndroidStudio\ProtoDraw\app\src\main\AndroidManifest.xml:20:27-73
+32                <category android:name="android.intent.category.OPENABLE" />
+32-->D:\myDocuments\Aroura\AndroidStudio\ProtoDraw\app\src\main\AndroidManifest.xml:21:17-76
+32-->D:\myDocuments\Aroura\AndroidStudio\ProtoDraw\app\src\main\AndroidManifest.xml:21:27-74
+33            </intent-filter>
+34        </activity>
+35
+36        <provider
+36-->D:\myDocuments\Aroura\AndroidStudio\ProtoDraw\app\src\main\AndroidManifest.xml:25:9-36:20
+37            android:name="androidx.core.content.FileProvider"
+37-->D:\myDocuments\Aroura\AndroidStudio\ProtoDraw\app\src\main\AndroidManifest.xml:27:13-62
+38            android:authorities="earth.devgalileo.protodraw.fileprovider"
+38-->D:\myDocuments\Aroura\AndroidStudio\ProtoDraw\app\src\main\AndroidManifest.xml:26:13-74
+39            android:exported="false"
+39-->D:\myDocuments\Aroura\AndroidStudio\ProtoDraw\app\src\main\AndroidManifest.xml:28:13-37
+40            android:grantUriPermissions="true" >
+40-->D:\myDocuments\Aroura\AndroidStudio\ProtoDraw\app\src\main\AndroidManifest.xml:29:13-47
+41            <meta-data
+41-->D:\myDocuments\Aroura\AndroidStudio\ProtoDraw\app\src\main\AndroidManifest.xml:31:13-33:48
+42                android:name="android.support.FILE_PROVIDER_PATHS"
+42-->D:\myDocuments\Aroura\AndroidStudio\ProtoDraw\app\src\main\AndroidManifest.xml:32:17-67
+43                android:resource="@xml/paths" />
+43-->D:\myDocuments\Aroura\AndroidStudio\ProtoDraw\app\src\main\AndroidManifest.xml:33:17-46
+44        </provider>
+45    </application>
+46
+47</manifest>

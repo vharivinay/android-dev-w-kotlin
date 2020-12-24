@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Simply Sunny</string>
+
+    <string name="please_wait">Please Wait&#8230;</string>
+
+    <string name="image_contentDescription">image</string>
+    <string name="km_per_hour">KM/Hour</string>
+    <string name="visibility_distance">KM</string>
+
+    <string name="action_refresh">Refresh</string>
+    <string name="sunset">Sunset</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="clothes_text">This should keep You Cozy Today!</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="maps_api_v2_key">AIzaSyCWChtalHK3IKCMRkjKDbI753LZ_bl_q6s</string>
+</resources>

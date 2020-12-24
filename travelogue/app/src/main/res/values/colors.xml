@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#536878</color>
+    <color name="colorPrimaryDark">#36454f</color>
+    <color name="colorAccent">#708090</color>
+    <color name="colorSecondary">#6e7f80</color>
+    <color name="colorSecondaryDark">#536872</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="primary_text_color">#212121</color>
+    <color name="secondary_text_color">#9AA2AF</color>
+
+    <!-- #6e7f80 • #536872 • #708090 • #536878 • #36454f -->
+
+    <color name="circular_image_border_color">#757575</color>
+    <color name="item_travel_logue_description_text_color">#606060</color>
+    <color name="detail_screen_description_text_color">#757575</color>
+
+</resources>

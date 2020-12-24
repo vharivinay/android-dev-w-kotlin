@@ -1,0 +1,538 @@
+[
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_card_details.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\layout\\activity_card_details.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_add_member.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-mdpi\\ic_add_member.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_edit.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-ldpi\\ic_edit.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_background.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-hdpi\\ic_background.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_intro_background.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xxhdpi\\intro_background.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable_white_border_shape_button_rounded.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable\\white_border_shape_button_rounded.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_card.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\layout\\item_card.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_search_member.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\layout\\dialog_search_member.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_done.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_done.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_stat_ic_notification.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xhdpi\\ic_stat_ic_notification.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_task_image.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xxhdpi\\ic_task_image.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_delete.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-mdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_task_list.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\layout\\activity_task_list.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_background.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xxhdpi\\ic_background.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_intro_background.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-hdpi\\intro_background.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_vector_white_done_24dp.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable\\ic_vector_white_done_24dp.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_add_member.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xhdpi\\ic_add_member.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_card_selected_member.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\layout\\item_card_selected_member.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_task_image.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-hdpi\\ic_task_image.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_nav_user.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-mdpi\\ic_nav_user.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_task_image.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-ldpi\\ic_task_image.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_board.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\layout\\item_board.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_member.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\layout\\item_member.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_splash_background.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable\\ic_splash_background.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_white_color_back_24dp.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable\\ic_white_color_back_24dp.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_vector_delete_24dp.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable\\ic_vector_delete_24dp.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_nav_user.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_nav_user.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card_view_outline.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable\\card_view_outline.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_delete.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-ldpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_user_place_holder.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-mdpi\\ic_user_place_holder.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_action_navigation_menu.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-anydpi\\ic_action_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_edit.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-mdpi\\ic_edit.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_vector_add_24dp.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable\\ic_vector_add_24dp.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_add_member.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-hdpi\\ic_add_member.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cancel.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xhdpi\\ic_cancel.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_stat_ic_notification.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xxhdpi\\ic_stat_ic_notification.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_delete.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xxhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_members.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\menu\\menu_members.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_add_member.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\menu\\menu_add_member.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_splash_background.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-ldpi\\ic_splash_background.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_background.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xhdpi\\ic_background.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_user_place_holder.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xhdpi\\ic_user_place_holder.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_list.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\layout\\dialog_list.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_nav_sign_out.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-ldpi\\ic_nav_sign_out.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_add_member.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-anydpi\\ic_add_member.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_vector_color_accent_done_24dp.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable\\ic_vector_color_accent_done_24dp.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_board_place_holder.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-ldpi\\ic_board_place_holder.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_background.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-ldpi\\ic_background.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_delete_card.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\menu\\menu_delete_card.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_nav_user.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-ldpi\\ic_nav_user.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_user_place_holder.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-ldpi\\ic_user_place_holder.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_lable_color.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\layout\\item_lable_color.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_header_main_background.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable\\nav_header_main_background.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_done.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-ldpi\\ic_done.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_progress.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\layout\\dialog_progress.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_navigation_menu.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-hdpi\\ic_action_navigation_menu.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_navigation_menu.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_navigation_menu.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_stat_ic_notification.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-hdpi\\ic_stat_ic_notification.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_delete.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_content.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\layout\\main_content.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_intro_background.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-mdpi\\intro_background.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_navigation_menu.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_navigation_menu.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_done.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-mdpi\\ic_done.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_edit.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xxhdpi\\ic_edit.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_task.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\layout\\item_task.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_stat_ic_notification.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-anydpi-v24\\ic_stat_ic_notification.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_background.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_background.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_nav_user.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xhdpi\\ic_nav_user.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_shape_dialog_rounded.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-anydpi\\shape_dialog_rounded.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_nav_sign_out.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-hdpi\\ic_nav_sign_out.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_nav_user.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xxhdpi\\ic_nav_user.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_board_place_holder.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_board_place_holder.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_intro_background.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xhdpi\\intro_background.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_delete.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_board_place_holder.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xxhdpi\\ic_board_place_holder.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cancel.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xxhdpi\\ic_cancel.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_navigation_menu.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-mdpi\\ic_action_navigation_menu.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_edit.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_edit.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_cancel.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-ldpi\\ic_cancel.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_intro_background.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-ldpi\\intro_background.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_stat_ic_notification.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-mdpi\\ic_stat_ic_notification.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_task_image.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-mdpi\\ic_task_image.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_task_image.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable\\ic_task_image.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_base.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_nav_user.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-hdpi\\ic_nav_user.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_board_place_holder.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xhdpi\\ic_board_place_holder.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_user_place_holder.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-hdpi\\ic_user_place_holder.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_nav_sign_out.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xxhdpi\\ic_nav_sign_out.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_edit.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xhdpi\\ic_edit.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_black_color_back_24dp.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable\\ic_black_color_back_24dp.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cancel.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-mdpi\\ic_cancel.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_background.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-mdpi\\ic_background.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add_member.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_member.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_create_board.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\layout\\activity_create_board.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_done.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xxhdpi\\ic_done.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_board_place_holder.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-hdpi\\ic_board_place_holder.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_intro.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_button_rounded.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable\\shape_button_rounded.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_splash_background.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xxhdpi\\ic_splash_background.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_user_place_holder.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xxhdpi\\ic_user_place_holder.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_splash_background.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xhdpi\\ic_splash_background.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_nav_sign_out.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-mdpi\\ic_nav_sign_out.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_splash_background.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-mdpi\\ic_splash_background.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_members.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\layout\\activity_members.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable_intro_background.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable\\intro_background.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_cancel.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_cancel.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_nav_sign_out.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xhdpi\\ic_nav_sign_out.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_in.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_board_place_holder.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-mdpi\\ic_board_place_holder.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_profile.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\layout\\activity_my_profile.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_done.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xhdpi\\ic_done.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_up.xml.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_splash_background.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-hdpi\\ic_splash_background.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_user_place_holder.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_user_place_holder.png"
+    },
+    {
+        "merged": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_nav_sign_out.png.flat",
+        "source": "D:\\myDocuments\\Aroura\\AndroidStudio\\Assimilator\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_nav_sign_out.png"
+    }
+]
