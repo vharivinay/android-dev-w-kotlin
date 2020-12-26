@@ -21,7 +21,7 @@
 * **Screenshot**
 <img align="left" alt="theageoldapp" width="300px" height="600px" src="/screenshots/theageoldapp.jpg" />
 
-####
+<br />
 
 #### Calculator
 * **Basic Calculator for arithmetic calculations**
