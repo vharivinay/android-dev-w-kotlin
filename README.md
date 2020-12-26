@@ -12,21 +12,25 @@
 
 ### What Apps Do
 
-#### AgeInMinutes (theAgeOldApp)
+#### AgeInMinutes (theAgeOldApp
+
+* **Screenshot**
+<img align="left" alt="theageoldapp" width="300px" height="600px" src="/screenshots/theageoldapp.jpg" />
 * **Calculated the age in days, hours, minutes and seconds**
 * **Techniques used:**
   * Uisng kotlin classes
   * Building basic UI with one activity, button and text-views
   * Using in-built date picker
-* **Screenshot**
-<img align="left" alt="theageoldapp" width="300px" height="600px" src="/screenshots/theageoldapp.jpg" />
 
-<br><br/>
+---
 
 #### Calculator
+
+* **Screenshot**
+<img align="left" alt="calculator" width="300px" height="600px" src="/screenshots/calculator.jpg" /> 
 * **Basic Calculator for arithmetic calculations**
 * **Techniques used:**
   * Mathematical operators
   * Handeling string inputs and outputs, button layouts, strings.
-* **Screenshot**
-<img align="left" alt="calculator" width="300px" height="600px" src="/screenshots/calculator.jpg" /> 
+
+---
