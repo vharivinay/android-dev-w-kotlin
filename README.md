@@ -40,3 +40,5 @@
 <img alt="quiz_correct" align="left" width="300px" height="600px" src="/screenshots/quiz_correct.jpg" />
 <img alt="quiz_incorrect" align="left" width="300px" height="600px" src="/screenshots/quiz_incorrect.jpg" />
 <div/>
+<hr>
+
