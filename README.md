@@ -23,6 +23,20 @@
 * **Screenshot**
 <img alt="theageoldapp" aign="left" width="300px" height="600px" src="/screenshots/theageoldapp.jpg" />  
 
+-----------------------------
+
+#### Calculator
+ 
+* **Basic Calculator for arithmetic calculations**
+* **Techniques used:**
+  * Mathematical operators
+  * Handeling user inputs and outputs, button layouts, strings.
+* **Screenshot**
+<img alt="calculator" align="left" width="300px" height="600px" src="/screenshots/calculator.jpg" />  
+
+------------------------------
+
+<p align="left">
 
 #### The Quiz App
 
@@ -36,13 +50,6 @@
 <img alt="quiz_login" align="left" width="300px" height="600px" src="/screenshots/quiz_login.jpg" />
 <img alt="quiz_correct" align="left" width="300px" height="600px" src="/screenshots/quiz_correct.jpg" />
 <img alt="quiz_incorrect" align="left" width="300px" height="600px" src="/screenshots/quiz_incorrect.jpg" />
+<p />
 
-
-#### Calculator
- 
-* **Basic Calculator for arithmetic calculations**
-* **Techniques used:**
-  * Mathematical operators
-  * Handeling user inputs and outputs, button layouts, strings.
-* **Screenshot**
-<img alt="calculator" align="left" width="300px" height="600px" src="/screenshots/calculator.jpg" />  
+---------------------------------
