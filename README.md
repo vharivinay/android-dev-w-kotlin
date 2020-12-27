@@ -12,15 +12,15 @@
 
 ### What Apps Do
 
-#### AgeInMinutes (theAgeOldApp
+#### AgeInMinutes (theAgeOldApp)
 
-* **Calculated the age in days, hours, minutes and seconds**
+* **Calculates the age in days, hours, minutes and seconds based on date picked**
 * **Techniques used:**
   * Uisng kotlin classes
   * Building basic UI with one activity, button and text-views
   * Using in-built date picker
 * **Screenshot**
-<img alt="theageoldapp" aign="left" width="300px" height="600px" src="/screenshots/theageoldapp.jpg" />
+<img alt="theageoldapp" aign="left" width="300px" height="600px" src="/screenshots/theageoldapp.jpg" />  
 
 #### Calculator
 
@@ -29,7 +29,7 @@
   * Mathematical operators
   * Handeling string inputs and outputs, button layouts, strings.
 * **Screenshot**
-<img alt="calculator" align="left" width="300px" height="600px" src="/screenshots/calculator.jpg" />
+<img alt="calculator" align="left" width="300px" height="600px" src="/screenshots/calculator.jpg" />  
 
 #### The Quiz App
 
@@ -38,7 +38,7 @@
   * Manipulating android manifest for having more than one activity
   * Creating models and user defined classes
   * Data flow between multiple activities
-  * User inputs
+  * User inputs  
 * **Screenshots**
 <img alt="theQuizApp1" align="left" width="300px" height="600px" src="/screenshots/quiz_login.jpg" />
 <img alt="theQuizApp2" align="left" width="300px" height="600px" src="/screenshots/quiz_correct.jpg" />
