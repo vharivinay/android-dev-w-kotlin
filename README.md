@@ -23,8 +23,8 @@
   * Using in-built date picker
 * **Screenshot**
 <img alt="theageoldapp" aign="left" width="300px" height="600px" src="/screenshots/theageoldapp.jpg" />  
-<div/>
 <hr>
+<div/>
 <div align="left">
  
 > #### The Quiz App
@@ -39,6 +39,6 @@
 <img alt="quiz_login" align="left" width="300px" height="600px" src="/screenshots/quiz_login.jpg" />
 <img alt="quiz_correct" align="left" width="300px" height="600px" src="/screenshots/quiz_correct.jpg" />
 <img alt="quiz_incorrect" align="left" width="300px" height="600px" src="/screenshots/quiz_incorrect.jpg" />
-<div/>
 <hr>
+<div/>
 
