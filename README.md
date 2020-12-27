@@ -20,7 +20,7 @@
   * Building basic UI with one activity, button and text-views
   * Using in-built date picker
 * **Screenshot**
-![alt="theageoldapp"](aign="left" width="300px" height="600px" src="/screenshots/theageoldapp.jpg")
+<img alt="theageoldapp" aign="left" width="300px" height="600px" src="/screenshots/theageoldapp.jpg" />
 
 #### Calculator
 
@@ -29,4 +29,4 @@
   * Mathematical operators
   * Handeling string inputs and outputs, button layouts, strings.
 * **Screenshot**
-![alt="calculator"](align="left" width="300px" height="600px" src="/screenshots/calculator.jpg") 
+<img alt="calculator" align="left" width="300px" height="600px" src="/screenshots/calculator.jpg" />
