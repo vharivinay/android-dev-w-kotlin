@@ -1,5 +1,6 @@
 # Learning Android Development with kotlin
-
+<p>
+ 
 ### What I learned.
 * **Object-oriented programming in Kotlin, variables, data types, functions, classes, inheritance.**
 * **Control flows (if/else, when, for/while/do-while loops) .**
@@ -10,10 +11,13 @@
 * **Third-Party libraries such as GSON, Google Places, RETROFIT, and DEXTER.**
 * **Firebase and Firestore usage.**
 
+<p/>
+
 ### What Apps Do
 
 #### AgeInMinutes (theAgeOldApp)
 
+<p>
 * **Calculates the age in days, hours, minutes and seconds based on date picked**
 * **Techniques used:**
   * Uisng kotlin classes
@@ -21,18 +25,24 @@
   * Using in-built date picker
 * **Screenshot**
 <img alt="theageoldapp" aign="left" width="300px" height="600px" src="/screenshots/theageoldapp.jpg" />  
+<p/>
 
 #### Calculator
 
+<p>
 * **Basic Calculator for arithmetic calculations**
 * **Techniques used:**
   * Mathematical operators
   * Handeling string inputs and outputs, button layouts, strings.
 * **Screenshot**
 <img alt="calculator" align="left" width="300px" height="600px" src="/screenshots/calculator.jpg" />  
+<p/>
+
+
 
 #### The Quiz App
 
+<p>
 * **This app is built as a basis for a classic quiz app. The questions are set on country-flags.
 * **Techniques used:**
   * Manipulating android manifest for having more than one activity
@@ -43,4 +53,5 @@
 <img alt="theQuizApp1" align="left" width="300px" height="600px" src="/screenshots/quiz_login.jpg" />
 <img alt="theQuizApp2" align="left" width="300px" height="600px" src="/screenshots/quiz_correct.jpg" />
 <img alt="theQuizApp3" align="left" width="300px" height="600px" src="/screenshots/quiz_incorrect.jpg" />
+<p/>
  
