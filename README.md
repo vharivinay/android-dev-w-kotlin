@@ -22,7 +22,17 @@
 * **Screenshot**
 <img alt="theageoldapp" aign="left" width="300px" height="600px" src="/screenshots/theageoldapp.jpg" />  
 <hr>
- 
+
+> #### Calculator
+
+* **Basic Arithemetic Calulator**
+* **Techniques used:**
+  * Mathematical opertaors
+  * exit texts, inputs and outputs, button layouts, string handling
+* **Screenshot**
+<img alt="calculator" aign="left" width="300px" height="600px" src="/screenshots/calculator.jpg" />  
+<hr>
+
 > #### The Quiz App
 
 * **This app is built as a basis for a classic quiz app. The questions are set on country-flags.**
