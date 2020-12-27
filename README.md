@@ -38,7 +38,9 @@
 <p/>
 
 #### The Quiz App
+
 <p>
+ 
 * **This app is built as a basis for a classic quiz app. The questions are set on country-flags.**
 * **Techniques used:**
   * Manipulating android manifest for having more than one activity
