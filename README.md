@@ -13,7 +13,7 @@
 ### What Apps Do
 
 
-#### AgeInMinutes (theAgeOldApp)
+> #### AgeInMinutes (theAgeOldApp)
 
 * **Calculates the age in days, hours, minutes and seconds based on date picked**
 * **Techniques used:**
@@ -24,7 +24,7 @@
 <img alt="theageoldapp" aign="left" width="300px" height="600px" src="/screenshots/theageoldapp.jpg" />  
 <hr>
 
-#### Calculator
+> #### Calculator
  
 * **Basic Calculator for arithmetic calculations**
 * **Techniques used:**
@@ -35,7 +35,7 @@
 
 <div align="left">
 
-#### The Quiz App
+> #### The Quiz App
 
 * **This app is built as a basis for a classic quiz app. The questions are set on country-flags.**
 * **Techniques used:**
