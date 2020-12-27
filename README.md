@@ -34,7 +34,7 @@
   * Manipulating android manifest for having more than one activity
   * Creating models and user defined classes
   * Data flow between multiple activities
-  * User inputs  
+  * User inputs
 * **Screenshots**
 <img alt="quiz_login" align="left" width="300px" height="600px" src="/screenshots/quiz_login.jpg" />
 <img alt="quiz_correct" align="left" width="300px" height="600px" src="/screenshots/quiz_correct.jpg" />
