@@ -96,3 +96,15 @@
 <img alt="pictolog_del" width="300px" height="600px" src="screenshots/pictolog_del.jpg">
 <div/>
 <hr>
+
+#### Simply Sunny
+* **This a fun weather app that tells you what to wear beased on the weather. Right now it just askes everyone to wear my equlibrium consition get up, it should be updated to actually be useful and also show weather conditions on mars.**
+* **Techniques used:**
+  * Permissions for location and cellular data
+  * Thirdparty api calls - open weather, google places
+  * Data upload and retrieval using cellular data
+  * Data retrieval using GSON in JSON format.
+  * Location
+* **Screenshots**
+<img alt="simplysunng" aign="left" width="300px" height="600px" src="/screenshots/simplysunny.jpg" />  
+<hr>
