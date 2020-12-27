@@ -78,3 +78,21 @@
 <img alt="7mw_bmi" width="300px" height="600px" src="screenshots/7mw_bmi.jpg">
 <div/>
 <hr>
+
+#### Travelogue (PictoLogue)
+* **Journal like logue with pictures instead. Ability to write a short description, title for the picture. In addition to that, auto or manual date and location  picker. The picture can be picked from gallery or captured from the camera app directly into the app. This was a fun one to learn to make. The entries can be be edited or deleted from the main scrren with a right or left swipe on the entry respectively**
+* **Techniques used:**
+  * Recycler view
+  * Permissions using dexter api for camera, storage and location
+  * Google place api calls, Map fragments
+  * Swipe actions
+* **Screenshots**
+<div>
+<img alt="pictolog_rv" width="300px" height="600px" src="screenshots/pictoog_rv.jpg">
+<img alt="pictolog_addview" width="300px" height="600px" src="screenshots/7pictolog_addview.jpg">
+<div/>
+<div>
+<img alt="pictolog_edit" width="300px" height="600px" src="screenshots/7pictolog_edit.jpg">
+<img alt="pictolog_del" width="300px" height="600px" src="screenshots/pictolog_del.jpg">
+<div/>
+<hr>
