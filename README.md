@@ -49,19 +49,6 @@
 <img alt="calculator" align="left" width="300px" height="600px" src="/screenshots/calculator.jpg" />  
 <p/>
 
-#### Calculator
-
-<p>
- 
-* **Basic Calculator for arithmetic calculations**
-* **Techniques used:**
-  * Mathematical operators
-  * Handeling string inputs and outputs, button layouts, strings.
-##### Screenshot
-<img alt="calculator" align="left" width="300px" height="600px" src="/screenshots/calculator.jpg" />  
-<p/>
-
-
 <!--
 #### The Quiz App
 <p>
