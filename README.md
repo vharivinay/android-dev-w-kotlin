@@ -40,7 +40,7 @@
   * Data flow between multiple activities
   * User inputs
 * **Screenshots**
-  <img alt="theQuizApp1" align="left" width="300px" height="600px" src="/screenshots/quiz_login.jpg" />
-  <img alt="theQuizApp2" align="left" width="300px" height="600px" src="/screenshots/quiz_correct.jpg" />
-  <img alt="theQuizApp3" align="left" width="300px" height="600px" src="/screenshots/quiz_incorrect.jpg" />
+<img alt="theQuizApp1" align="left" width="300px" height="600px" src="/screenshots/quiz_login.jpg" />
+<img alt="theQuizApp2" align="left" width="300px" height="600px" src="/screenshots/quiz_correct.jpg" />
+<img alt="theQuizApp3" align="left" width="300px" height="600px" src="/screenshots/quiz_incorrect.jpg" />
  
