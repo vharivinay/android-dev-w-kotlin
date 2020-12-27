@@ -21,7 +21,7 @@
   * Uisng kotlin classes
   * Building basic UI with one activity, button and text-views
   * Using in-built date picker
-##### Screenshot
+* **Screenshot**
 <img alt="theageoldapp" aign="left" width="300px" height="600px" src="/screenshots/theageoldapp.jpg" />  
 <p/>
 
@@ -32,8 +32,8 @@
 * **Basic Calculator for arithmetic calculations**
 * **Techniques used:**
   * Mathematical operators
-  * Handeling string inputs and outputs, button layouts, strings.
-##### Screenshot
+  * Handeling user inputs and outputs, button layouts, strings.
+* **Screenshot**
 <img alt="calculator" align="left" width="300px" height="600px" src="/screenshots/calculator.jpg" />  
 <p/>
 
@@ -47,7 +47,7 @@
   * Creating models and user defined classes
   * Data flow between multiple activities
   * User inputs  
-##### Screenshots
+* **Screenshots**
 <img alt="quiz_login" align="left" width="300px" height="600px" src="/screenshots/quiz_login.jpg" />
 <img alt="quiz_correct" align="left" width="300px" height="600px" src="/screenshots/quiz_correct.jpg" />
 <img alt="quiz_incorrect" align="left" width="300px" height="600px" src="/screenshots/quiz_incorrect.jpg" />
