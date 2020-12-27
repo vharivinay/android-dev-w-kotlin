@@ -34,7 +34,11 @@
 <img alt="calculator" align="left" width="300px" height="600px" src="/screenshots/calculator.jpg" />  
 <hr>
 
-<br>
+
+
+
+
+
 
 #### The Quiz App
 
