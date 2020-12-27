@@ -21,7 +21,7 @@
   * Using in-built date picker
 * **Screenshot**
 <img alt="theageoldapp" aign="left" width="300px" height="600px" src="/screenshots/theageoldapp.jpg" />  
----- 
+<hr>
  
 > #### The Quiz App
 
@@ -37,5 +37,5 @@
 ![quiz_correct](/screenshots/quiz_correct.jpg)
 ![quiz_incorrect](/screenshots/quiz_incorrect.jpg)
 <div/>
-----
+<hr>
 
