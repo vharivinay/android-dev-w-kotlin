@@ -1,5 +1,4 @@
 # Learning Android Development with kotlin
-<p>
  
 ### What I learned.
 * **Object-oriented programming in Kotlin, variables, data types, functions, classes, inheritance.**
@@ -11,13 +10,12 @@
 * **Third-Party libraries such as GSON, Google Places, RETROFIT, and DEXTER.**
 * **Firebase and Firestore usage.**
 
-<p/>
-
 ### What Apps Do
 
 #### AgeInMinutes (theAgeOldApp)
 
 <p>
+ 
 * **Calculates the age in days, hours, minutes and seconds based on date picked**
 * **Techniques used:**
   * Uisng kotlin classes
@@ -30,6 +28,7 @@
 #### Calculator
 
 <p>
+ 
 * **Basic Calculator for arithmetic calculations**
 * **Techniques used:**
   * Mathematical operators
@@ -43,6 +42,7 @@
 #### The Quiz App
 
 <p>
+ 
 * **This app is built as a basis for a classic quiz app. The questions are set on country-flags.
 * **Techniques used:**
   * Manipulating android manifest for having more than one activity
