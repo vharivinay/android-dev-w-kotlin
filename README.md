@@ -88,11 +88,11 @@
   * Swipe actions
 * **Screenshots**
 <div>
-<img alt="pictolog_rv" width="300px" height="600px" src="screenshots/pictoog_rv.jpg">
-<img alt="pictolog_addview" width="300px" height="600px" src="screenshots/7pictolog_addview.jpg">
+<img alt="pictolog_rv" width="300px" height="600px" src="screenshots/pictolog_rv.jpg">
+<img alt="pictolog_addview" width="300px" height="600px" src="screenshots/pictolog_addview.jpg">
 <div/>
 <div>
-<img alt="pictolog_edit" width="300px" height="600px" src="screenshots/7pictolog_edit.jpg">
+<img alt="pictolog_edit" width="300px" height="600px" src="screenshots/pictolog_edit.jpg">
 <img alt="pictolog_del" width="300px" height="600px" src="screenshots/pictolog_del.jpg">
 <div/>
 <hr>
