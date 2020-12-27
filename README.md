@@ -32,10 +32,10 @@
   * Data flow between multiple activities
   * User inputs
 * **Screenshots**
-<div style="float:left;margin:0 300px 600px 0" markdown="1">
+<div>
 <img alt="quizlogin" width="300px" height="600px" src="screenshots/quiz_login.jpg">
-<img alt="quizlogin" width="300px" height="600px" src="screenshots/quiz_login.jpg">
-<img alt="quizlogin" width="300px" height="600px" src="screenshots/quiz_login.jpg">
+<img alt="quizcorrect" width="300px" height="600px" src="screenshots/quiz_correct.jpg">
+<img alt="quizincorrect" width="300px" height="600px" src="screenshots/quiz_incorrect.jpg">
 <div/>
 <hr>
 
