@@ -33,9 +33,9 @@
   * User inputs
 * **Screenshots**
 <div style="float:left;margin:0 300px 600px 0" markdown="1">
-![quiz_login](/screenshots/quiz_login.jpg)
-![quiz_correct](/screenshots/quiz_correct.jpg)
-![quiz_incorrect](/screenshots/quiz_incorrect.jpg)
+![quiz_login](screenshots/quiz_login.jpg)
+![quiz_correct](screenshots/quiz_correct.jpg)
+![quiz_incorrect](screenshots/quiz_incorrect.jpg)
 <div/>
 <hr>
 
