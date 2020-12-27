@@ -37,12 +37,34 @@
 <img alt="calculator" align="left" width="300px" height="600px" src="/screenshots/calculator.jpg" />  
 <p/>
 
-
-
-#### The Quiz App
+#### Calculator
 
 <p>
  
+* **Basic Calculator for arithmetic calculations**
+* **Techniques used:**
+  * Mathematical operators
+  * Handeling string inputs and outputs, button layouts, strings.
+##### Screenshot
+<img alt="calculator" align="left" width="300px" height="600px" src="/screenshots/calculator.jpg" />  
+<p/>
+
+#### Calculator
+
+<p>
+ 
+* **Basic Calculator for arithmetic calculations**
+* **Techniques used:**
+  * Mathematical operators
+  * Handeling string inputs and outputs, button layouts, strings.
+##### Screenshot
+<img alt="calculator" align="left" width="300px" height="600px" src="/screenshots/calculator.jpg" />  
+<p/>
+
+
+<!--
+#### The Quiz App
+<p>
 * **This app is built as a basis for a classic quiz app. The questions are set on country-flags.**
 * **Techniques used:**
   * Manipulating android manifest for having more than one activity
@@ -54,4 +76,4 @@
 <img alt="theQuizApp2" align="left" width="300px" height="600px" src="/screenshots/quiz_correct.jpg" />
 <img alt="theQuizApp3" align="left" width="300px" height="600px" src="/screenshots/quiz_incorrect.jpg" />
 <p/>
- 
+ -->
