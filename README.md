@@ -60,3 +60,21 @@
 <img alt="protodraw" aign="left" width="300px" height="600px" src="/screenshots/protodraw.jpg" />  
 <hr>
 
+#### 7 Minute Workout App
+* **Workout timer for the populor 7 minute workout routine. Additional feature include BMI calculator in SI as well as imperial units and ability to story history of workouts**
+* **Techniques used:**
+  * Radio buttons for switching between activities
+  * Local data storage using SQLite 
+  * Using timers and countdown timers
+  * Text to speech handling and playing sounds with media
+  * Recycler Views
+* **Screenshots**
+<div>
+<img alt="7mw_main" width="300px" height="600px" src="screenshots/7mw_main.jpg">
+<img alt="7mw_getready" width="300px" height="600px" src="screenshots/7mw_getready.jpg">
+<div/>
+<div>
+<img alt="7mw_finish" width="300px" height="600px" src="screenshots/7mv_finish.jpg">
+<img alt="7mw_bmi" width="300px" height="600px" src="screenshots/7mw_bmi.jpg">
+<div/>
+<hr>
