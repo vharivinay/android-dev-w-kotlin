@@ -30,3 +30,17 @@
   * Handeling string inputs and outputs, button layouts, strings.
 * **Screenshot**
 <img alt="calculator" align="left" width="300px" height="600px" src="/screenshots/calculator.jpg" />
+
+#### The Quiz App
+
+* **This app is built as a basis for a classic quiz app. The questions are set on country-flags.
+* **Techniques used:**
+  * Manipulating android manifest for having more than one activity
+  * Creating models and user defined classes
+  * Data flow between multiple activities
+  * User inputs
+* **Screenshots**
+  <img alt="theQuizApp1" align="left" width="300px" height="600px" src="/screenshots/quiz_login.jpg" />
+  <img alt="theQuizApp2" align="left" width="300px" height="600px" src="/screenshots/quiz_correct.jpg" />
+  <img alt="theQuizApp3" align="left" width="300px" height="600px" src="/screenshots/quiz_incorrect.jpg" />
+ 
