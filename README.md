@@ -24,7 +24,7 @@
 * **Screenshot**
 <img alt="theageoldapp" aign="left" width="300px" height="600px" src="/screenshots/theageoldapp.jpg" />  
 <div/>
-
+<hr>
 <div align="left">
  
 > #### The Quiz App
