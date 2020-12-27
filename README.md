@@ -12,8 +12,6 @@
 
 ### What Apps Do
 
-<div align="left">
- 
 > #### AgeInMinutes (theAgeOldApp)
 
 * **Calculates the age in days, hours, minutes and seconds based on date picked**
@@ -23,9 +21,7 @@
   * Using in-built date picker
 * **Screenshot**
 <img alt="theageoldapp" aign="left" width="300px" height="600px" src="/screenshots/theageoldapp.jpg" />  
-<hr>
-<div/>
-<div align="left">
+---- 
  
 > #### The Quiz App
 
@@ -36,9 +32,10 @@
   * Data flow between multiple activities
   * User inputs
 * **Screenshots**
-<img alt="quiz_login" align="left" width="300px" height="600px" src="/screenshots/quiz_login.jpg" />
-<img alt="quiz_correct" align="left" width="300px" height="600px" src="/screenshots/quiz_correct.jpg" />
-<img alt="quiz_incorrect" align="left" width="300px" height="600px" src="/screenshots/quiz_incorrect.jpg" />
-<hr>
+<div style="float:left;margin:0 300px 600px 0" markdown="1">
+![quiz_login](/screenshots/quiz_login.jpg)
+![quiz_correct](/screenshots/quiz_correct.jpg)
+![quiz_incorrect](/screenshots/quiz_incorrect.jpg)
 <div/>
+----
 
