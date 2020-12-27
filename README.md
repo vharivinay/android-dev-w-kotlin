@@ -12,7 +12,7 @@
 
 ### What Apps Do
 
-> #### AgeInMinutes (theAgeOldApp)
+ #### AgeInMinutes (theAgeOldApp)
 
 * **Calculates the age in days, hours, minutes and seconds based on date picked**
 * **Techniques used:**
@@ -23,7 +23,7 @@
 <img alt="theageoldapp" aign="left" width="300px" height="600px" src="/screenshots/theageoldapp.jpg" />  
 <hr>
 
-> #### Calculator
+ #### Calculator
 
 * **Basic Arithemetic Calulator**
 * **Techniques used:**
@@ -33,7 +33,7 @@
 <img alt="calculator" aign="left" width="300px" height="600px" src="/screenshots/calculator.jpg" />  
 <hr>
 
-> #### The Quiz App
+ #### The Quiz App
 
 * **This app is built as a basis for a classic quiz app. The questions are set on country-flags.**
 * **Techniques used:**
@@ -47,5 +47,16 @@
 <img alt="quizcorrect" width="300px" height="600px" src="screenshots/quiz_correct.jpg">
 <img alt="quizincorrect" width="300px" height="600px" src="screenshots/quiz_incorrect.jpg">
 <div/>
+<hr>
+
+#### ProtoDraw (primitive drawing app)
+* **Ability to draw in a handful of predefined colors. Features incluede changing brush size, adding a background image from gallery, undo, redo, clear all and save drawing to storage.**
+* **Techniques used:**
+  * Handling canvas and bitmaps
+  * Device permissions for storage and media
+  * Handling async tasks
+  * Custom progress dailogs, snackbars and toasts
+* **Screenshot**
+<img alt="protodraw" aign="left" width="300px" height="600px" src="/screenshots/protodraw.jpg" />  
 <hr>
 
