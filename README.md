@@ -10,6 +10,11 @@
 * **Third-Party libraries such as GSON, Google Places, RETROFIT, and DEXTER.**
 * **Firebase and Firestore usage.**
 
+##### NOTE: I case you want to reuse these codes. Make sure you replace the API keys. I have disables all of them since this is a public repository. The apps which use api calls are
+* Assimulator
+* Travelogue
+* SimplySunny
+
 ### What Apps Do
 
  #### AgeInMinutes (theAgeOldApp)
