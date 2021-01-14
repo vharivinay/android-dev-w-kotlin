@@ -14,7 +14,7 @@
     <string name="btn_text_view_on_map">VIEW ON MAP</string>
     <string name="add_place_select_current_location_text">SELECT CURRENT LOCATION</string>
 
-    <string name="google_maps_api_key">AIzaSyD_V5H-scIGo0YrWgZCo8WNWyXT1anbphg</string>
-    <string name="maps_api_v2_key">AIzaSyCWChtalHK3IKCMRkjKDbI753LZ_bl_q6s</string>
+    <string name="google_maps_api_key">INSERT GOOGLE MAPS API HERE</string>
+    <string name="maps_api_v2_key">INSERT GOOGLE PLACES API HERE</string>
 
 </resources>
