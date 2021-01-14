@@ -12,5 +12,5 @@
     <string name="sunrise">Sunrise</string>
     <string name="clothes_text">This should keep You Cozy Today!</string>
     <string name="title_activity_maps">Map</string>
-    <string name="maps_api_v2_key">AIzaSyCWChtalHK3IKCMRkjKDbI753LZ_bl_q6s</string>
+    <string name="maps_api_v2_key">INSERT API KEY HERE</string>
 </resources>
