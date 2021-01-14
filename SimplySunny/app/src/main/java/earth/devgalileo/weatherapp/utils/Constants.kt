@@ -8,7 +8,7 @@ import java.nio.file.WatchEvent
 
 object Constants {
 
-    const val APP_ID: String = "a321991eb77827f5902c84ff8c8e58d3"
+    const val APP_ID: String = "INSERT OPEN WEATHER API KEY HERE"
     const val BASE_URL: String = "http://api.openweathermap.org/data/"
     const val METRIC_UNIT: String = "metric"
     const val PREFERENCE_NAME = "WeatherAppPreference"
