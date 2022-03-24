@@ -6,205 +6,215 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml
+8-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml
+9-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml
 10    <!--
 11         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
 12         Google Maps Android API v2, but you must specify either coarse or fine
 13         location permissions for the 'MyLocation' functionality.
 14    -->
 15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-15-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:9:5-79
-15-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:9:22-76
+15-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:9:5-79
+15-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:9:22-76
 16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-16-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:10:5-81
-16-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:10:22-78
+16-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:10:5-81
+16-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:10:22-78
 17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-17-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:11:5-80
-17-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:11:22-77
+17-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:11:5-80
+17-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:11:22-77
 18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-18-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:12:5-81
-18-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:12:22-78
+18-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:12:5-81
+18-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:12:22-78
 19    <uses-permission android:name="android.permission.CAMERA" />
-19-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:13:5-65
-19-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:13:22-62
+19-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:13:5-65
+19-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:13:22-62
 20    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-20-->[com.google.android.libraries.places:places:2.2.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\0312c2aca91e967dcf7cad0d81e9a43b\jetified-places-2.2.0\AndroidManifest.xml:10:5-76
-20-->[com.google.android.libraries.places:places:2.2.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\0312c2aca91e967dcf7cad0d81e9a43b\jetified-places-2.2.0\AndroidManifest.xml:10:22-73
+20-->[com.google.android.libraries.places:places:2.4.0] /home/harivinay/.gradle/caches/transforms-2/files-2.1/2c4100fab893803c6088f4f2c4f4d86f/jetified-places-2.4.0/AndroidManifest.xml:10:5-76
+20-->[com.google.android.libraries.places:places:2.4.0] /home/harivinay/.gradle/caches/transforms-2/files-2.1/2c4100fab893803c6088f4f2c4f4d86f/jetified-places-2.4.0/AndroidManifest.xml:10:22-73
 21    <uses-permission android:name="android.permission.INTERNET" /> <!-- Include required permissions for Google Maps API to run. -->
-21-->[com.google.android.libraries.places:places:2.2.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\0312c2aca91e967dcf7cad0d81e9a43b\jetified-places-2.2.0\AndroidManifest.xml:11:5-67
-21-->[com.google.android.libraries.places:places:2.2.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\0312c2aca91e967dcf7cad0d81e9a43b\jetified-places-2.2.0\AndroidManifest.xml:11:22-64
+21-->[com.google.android.libraries.places:places:2.4.0] /home/harivinay/.gradle/caches/transforms-2/files-2.1/2c4100fab893803c6088f4f2c4f4d86f/jetified-places-2.4.0/AndroidManifest.xml:11:5-67
+21-->[com.google.android.libraries.places:places:2.4.0] /home/harivinay/.gradle/caches/transforms-2/files-2.1/2c4100fab893803c6088f4f2c4f4d86f/jetified-places-2.4.0/AndroidManifest.xml:11:22-64
 22    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-22-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\05fd23014d14d5f8988d77be1fbc46a9\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
-22-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\05fd23014d14d5f8988d77be1fbc46a9\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+22-->[com.google.android.gms:play-services-maps:17.0.1] /home/harivinay/.gradle/caches/transforms-2/files-2.1/ba7e0543cb40c75ad757532a8e8d539b/jetified-play-services-maps-17.0.1/AndroidManifest.xml:23:5-79
+22-->[com.google.android.gms:play-services-maps:17.0.1] /home/harivinay/.gradle/caches/transforms-2/files-2.1/ba7e0543cb40c75ad757532a8e8d539b/jetified-play-services-maps-17.0.1/AndroidManifest.xml:23:22-76
 23
 24    <uses-feature
-24-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\05fd23014d14d5f8988d77be1fbc46a9\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+24-->[com.google.android.gms:play-services-maps:17.0.1] /home/harivinay/.gradle/caches/transforms-2/files-2.1/ba7e0543cb40c75ad757532a8e8d539b/jetified-play-services-maps-17.0.1/AndroidManifest.xml:26:5-28:35
 25        android:glEsVersion="0x00020000"
-25-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\05fd23014d14d5f8988d77be1fbc46a9\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+25-->[com.google.android.gms:play-services-maps:17.0.1] /home/harivinay/.gradle/caches/transforms-2/files-2.1/ba7e0543cb40c75ad757532a8e8d539b/jetified-play-services-maps-17.0.1/AndroidManifest.xml:27:9-41
 26        android:required="true" />
-26-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\05fd23014d14d5f8988d77be1fbc46a9\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+26-->[com.google.android.gms:play-services-maps:17.0.1] /home/harivinay/.gradle/caches/transforms-2/files-2.1/ba7e0543cb40c75ad757532a8e8d539b/jetified-play-services-maps-17.0.1/AndroidManifest.xml:28:9-32
 27
-28    <application
-28-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:15:5-57:19
-29        android:allowBackup="true"
-29-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:16:9-35
-30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-30-->[androidx.core:core:1.2.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\a3eef63a1949ce565e26a68908e433ce\core-1.2.0\AndroidManifest.xml:24:18-86
-31        android:debuggable="true"
-32        android:icon="@mipmap/ic_final_icon"
-32-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:17:9-45
-33        android:label="@string/app_name"
-33-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:18:9-41
-34        android:roundIcon="@mipmap/ic_launcher_round"
-34-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:19:9-54
-35        android:supportsRtl="true"
-35-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:20:9-35
-36        android:theme="@style/AppTheme" >
-36-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:21:9-40
-37        <activity
-37-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:22:9-25:60
-38            android:name="earth.devgalileo.travelogue.activities.MapActivity"
-38-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:22:19-57
-39            android:label="LOGUES MAP"
-39-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:23:13-39
-40            android:screenOrientation="portrait"
-40-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:24:13-49
-41            android:theme="@style/CustomNoActionBarTheme" />
-41-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:25:13-58
-42        <!--
-43             The API key for Google Maps-based APIs is defined as a string resource.
-44             (See the file "res/values/google_maps_api.xml").
-45             Note that the API key is linked to the encryption key used to sign the APK.
-46             You need a different API key for each encryption key, including the release key that is used to
-47             sign the APK for publishing.
-48             You can define the keys for the debug and release targets in src/debug/ and src/release/.
-49        -->
-50
-51        <meta-data
-51-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:36:9-38:54
-52            android:name="com.google.android.maps.v2.API_KEY"
-52-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:37:13-62
-53            android:value="@string/maps_api_v2_key" />
-53-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:38:13-52
-54
-55        <activity
-55-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:40:9-44:61
-56            android:name="earth.devgalileo.travelogue.activities.travelLogueDetailActivity"
-56-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:41:13-65
-57            android:label="LOGUE DETAILS"
-57-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:42:13-42
-58            android:screenOrientation="portrait"
-58-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:43:13-49
-59            android:theme="@style/CustomNoActionBarTheme" />
-59-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:44:13-58
-60        <activity
-60-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:45:9-49:61
-61            android:name="earth.devgalileo.travelogue.activities.AddNewLogue"
-61-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:46:13-51
-62            android:label="ADD NEW LOGUE"
-62-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:47:13-42
-63            android:screenOrientation="portrait"
-63-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:48:13-49
-64            android:theme="@style/CustomNoActionBarTheme" />
-64-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:49:13-58
-65        <activity android:name="earth.devgalileo.travelogue.activities.MainActivity" >
-65-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:50:9-56:20
-65-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:50:19-58
-66            <intent-filter>
-66-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:51:13-55:29
-67                <action android:name="android.intent.action.MAIN" />
-67-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:52:17-69
-67-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:52:25-66
-68
-69                <category android:name="android.intent.category.LAUNCHER" />
-69-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:54:17-77
-69-->D:\myDocuments\Aroura\AndroidStudio\travelogue\app\src\main\AndroidManifest.xml:54:27-74
-70            </intent-filter>
-71        </activity>
-72        <activity
-72-->[com.karumi:dexter:6.1.2] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\5310e5fa424506f3709aa1ce7058b07e\jetified-dexter-6.1.2\AndroidManifest.xml:27:9-29:72
-73            android:name="com.karumi.dexter.DexterActivity"
-73-->[com.karumi:dexter:6.1.2] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\5310e5fa424506f3709aa1ce7058b07e\jetified-dexter-6.1.2\AndroidManifest.xml:28:13-60
-74            android:theme="@style/Dexter.Internal.Theme.Transparent" />
-74-->[com.karumi:dexter:6.1.2] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\5310e5fa424506f3709aa1ce7058b07e\jetified-dexter-6.1.2\AndroidManifest.xml:29:13-69
-75        <activity
-75-->[com.google.android.libraries.places:places:2.2.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\0312c2aca91e967dcf7cad0d81e9a43b\jetified-places-2.2.0\AndroidManifest.xml:14:9-20:20
-76            android:name="com.google.android.libraries.places.widget.AutocompleteActivity"
-76-->[com.google.android.libraries.places:places:2.2.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\0312c2aca91e967dcf7cad0d81e9a43b\jetified-places-2.2.0\AndroidManifest.xml:15:13-91
-77            android:exported="false"
-77-->[com.google.android.libraries.places:places:2.2.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\0312c2aca91e967dcf7cad0d81e9a43b\jetified-places-2.2.0\AndroidManifest.xml:16:13-37
-78            android:label="@string/places_autocomplete_label"
-78-->[com.google.android.libraries.places:places:2.2.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\0312c2aca91e967dcf7cad0d81e9a43b\jetified-places-2.2.0\AndroidManifest.xml:17:13-62
-79            android:theme="@style/PlacesAutocompleteOverlay"
-79-->[com.google.android.libraries.places:places:2.2.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\0312c2aca91e967dcf7cad0d81e9a43b\jetified-places-2.2.0\AndroidManifest.xml:18:13-61
-80            android:windowSoftInputMode="adjustResize" >
-80-->[com.google.android.libraries.places:places:2.2.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\0312c2aca91e967dcf7cad0d81e9a43b\jetified-places-2.2.0\AndroidManifest.xml:19:13-55
-81        </activity> <!-- Needs to be explicitly declared on P+ -->
-82        <uses-library
-82-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\05fd23014d14d5f8988d77be1fbc46a9\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
-83            android:name="org.apache.http.legacy"
-83-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\05fd23014d14d5f8988d77be1fbc46a9\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
-84            android:required="false" />
-84-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\05fd23014d14d5f8988d77be1fbc46a9\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
-85
-86        <activity
-86-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\d39ec00c07e9cc900cbdf184774bcb6f\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
-87            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-87-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\d39ec00c07e9cc900cbdf184774bcb6f\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
-88            android:exported="false"
-88-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\d39ec00c07e9cc900cbdf184774bcb6f\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
-89            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-89-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\d39ec00c07e9cc900cbdf184774bcb6f\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
-90
-91        <meta-data
-91-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\862cde625aad1fbef0a39de3e07c14e3\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
-92            android:name="com.google.android.gms.version"
-92-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\862cde625aad1fbef0a39de3e07c14e3\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
-93            android:value="@integer/google_play_services_version" />
-93-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\862cde625aad1fbef0a39de3e07c14e3\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
-94
-95        <service
-95-->[com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\75c7d9e9c3e5198567eaca71bf2d2c2d\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:29:9-35:19
-96            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
-96-->[com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\75c7d9e9c3e5198567eaca71bf2d2c2d\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:30:13-103
-97            android:exported="false" >
-97-->[com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\75c7d9e9c3e5198567eaca71bf2d2c2d\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:31:13-37
-98            <meta-data
-98-->[com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\75c7d9e9c3e5198567eaca71bf2d2c2d\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:32:13-34:39
-99                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
-99-->[com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\75c7d9e9c3e5198567eaca71bf2d2c2d\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:33:17-94
-100                android:value="cct" />
-100-->[com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\75c7d9e9c3e5198567eaca71bf2d2c2d\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:34:17-36
-101        </service>
-102        <service
-102-->[com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\556f0a670925ef0b1ed14696a39dbb1e\jetified-transport-runtime-2.1.0\AndroidManifest.xml:26:9-30:19
-103            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
-103-->[com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\556f0a670925ef0b1ed14696a39dbb1e\jetified-transport-runtime-2.1.0\AndroidManifest.xml:27:13-117
-104            android:exported="false"
-104-->[com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\556f0a670925ef0b1ed14696a39dbb1e\jetified-transport-runtime-2.1.0\AndroidManifest.xml:28:13-37
-105            android:permission="android.permission.BIND_JOB_SERVICE" >
-105-->[com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\556f0a670925ef0b1ed14696a39dbb1e\jetified-transport-runtime-2.1.0\AndroidManifest.xml:29:13-69
-106        </service>
+28    <queries>
+28-->[com.google.android.gms:play-services-maps:17.0.1] /home/harivinay/.gradle/caches/transforms-2/files-2.1/ba7e0543cb40c75ad757532a8e8d539b/jetified-play-services-maps-17.0.1/AndroidManifest.xml:30:5-34:15
+29
+30        <!-- Needs to be explicitly declared on Android R+ -->
+31        <package android:name="com.google.android.apps.maps" />
+31-->[com.google.android.gms:play-services-maps:17.0.1] /home/harivinay/.gradle/caches/transforms-2/files-2.1/ba7e0543cb40c75ad757532a8e8d539b/jetified-play-services-maps-17.0.1/AndroidManifest.xml:33:9-64
+31-->[com.google.android.gms:play-services-maps:17.0.1] /home/harivinay/.gradle/caches/transforms-2/files-2.1/ba7e0543cb40c75ad757532a8e8d539b/jetified-play-services-maps-17.0.1/AndroidManifest.xml:33:18-61
+32    </queries>
+33
+34    <application
+34-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:15:5-57:19
+35        android:allowBackup="true"
+35-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:16:9-35
+36        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+36-->[androidx.core:core:1.6.0] /home/harivinay/.gradle/caches/transforms-2/files-2.1/7627293602960174cfff9f8babd814f2/core-1.6.0/AndroidManifest.xml:24:18-86
+37        android:debuggable="true"
+38        android:icon="@mipmap/ic_final_icon"
+38-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:17:9-45
+39        android:label="@string/app_name"
+39-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:18:9-41
+40        android:roundIcon="@mipmap/ic_launcher_round"
+40-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:19:9-54
+41        android:supportsRtl="true"
+41-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:20:9-35
+42        android:testOnly="true"
+43        android:theme="@style/AppTheme" >
+43-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:21:9-40
+44        <activity
+44-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:22:9-25:60
+45            android:name="earth.devgalileo.travelogue.activities.MapActivity"
+45-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:22:19-57
+46            android:label="LOGUES MAP"
+46-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:23:13-39
+47            android:screenOrientation="portrait"
+47-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:24:13-49
+48            android:theme="@style/CustomNoActionBarTheme" />
+48-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:25:13-58
+49        <!--
+50             The API key for Google Maps-based APIs is defined as a string resource.
+51             (See the file "res/values/google_maps_api.xml").
+52             Note that the API key is linked to the encryption key used to sign the APK.
+53             You need a different API key for each encryption key, including the release key that is used to
+54             sign the APK for publishing.
+55             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+56        -->
+57
+58        <meta-data
+58-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:36:9-38:54
+59            android:name="com.google.android.maps.v2.API_KEY"
+59-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:37:13-62
+60            android:value="@string/maps_api_v2_key" />
+60-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:38:13-52
+61
+62        <activity
+62-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:40:9-44:61
+63            android:name="earth.devgalileo.travelogue.activities.travelLogueDetailActivity"
+63-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:41:13-65
+64            android:label="LOGUE DETAILS"
+64-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:42:13-42
+65            android:screenOrientation="portrait"
+65-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:43:13-49
+66            android:theme="@style/CustomNoActionBarTheme" />
+66-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:44:13-58
+67        <activity
+67-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:45:9-49:61
+68            android:name="earth.devgalileo.travelogue.activities.AddNewLogue"
+68-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:46:13-51
+69            android:label="ADD NEW LOGUE"
+69-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:47:13-42
+70            android:screenOrientation="portrait"
+70-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:48:13-49
+71            android:theme="@style/CustomNoActionBarTheme" />
+71-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:49:13-58
+72        <activity android:name="earth.devgalileo.travelogue.activities.MainActivity" >
+72-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:50:9-56:20
+72-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:50:19-58
+73            <intent-filter>
+73-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:51:13-55:29
+74                <action android:name="android.intent.action.MAIN" />
+74-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:52:17-69
+74-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:52:25-66
+75
+76                <category android:name="android.intent.category.LAUNCHER" />
+76-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:54:17-77
+76-->/run/media/Data/Programming/Android/AndroidStudio/travelogue/app/src/main/AndroidManifest.xml:54:27-74
+77            </intent-filter>
+78        </activity>
+79        <activity
+79-->[com.karumi:dexter:6.1.2] /home/harivinay/.gradle/caches/transforms-2/files-2.1/a46d1add8faeef25b87463a09208ccc5/jetified-dexter-6.1.2/AndroidManifest.xml:27:9-29:72
+80            android:name="com.karumi.dexter.DexterActivity"
+80-->[com.karumi:dexter:6.1.2] /home/harivinay/.gradle/caches/transforms-2/files-2.1/a46d1add8faeef25b87463a09208ccc5/jetified-dexter-6.1.2/AndroidManifest.xml:28:13-60
+81            android:theme="@style/Dexter.Internal.Theme.Transparent" />
+81-->[com.karumi:dexter:6.1.2] /home/harivinay/.gradle/caches/transforms-2/files-2.1/a46d1add8faeef25b87463a09208ccc5/jetified-dexter-6.1.2/AndroidManifest.xml:29:13-69
+82        <activity
+82-->[com.google.android.libraries.places:places:2.4.0] /home/harivinay/.gradle/caches/transforms-2/files-2.1/2c4100fab893803c6088f4f2c4f4d86f/jetified-places-2.4.0/AndroidManifest.xml:14:9-20:20
+83            android:name="com.google.android.libraries.places.widget.AutocompleteActivity"
+83-->[com.google.android.libraries.places:places:2.4.0] /home/harivinay/.gradle/caches/transforms-2/files-2.1/2c4100fab893803c6088f4f2c4f4d86f/jetified-places-2.4.0/AndroidManifest.xml:15:13-91
+84            android:exported="false"
+84-->[com.google.android.libraries.places:places:2.4.0] /home/harivinay/.gradle/caches/transforms-2/files-2.1/2c4100fab893803c6088f4f2c4f4d86f/jetified-places-2.4.0/AndroidManifest.xml:16:13-37
+85            android:label="@string/places_autocomplete_label"
+85-->[com.google.android.libraries.places:places:2.4.0] /home/harivinay/.gradle/caches/transforms-2/files-2.1/2c4100fab893803c6088f4f2c4f4d86f/jetified-places-2.4.0/AndroidManifest.xml:17:13-62
+86            android:theme="@style/PlacesAutocompleteOverlay"
+86-->[com.google.android.libraries.places:places:2.4.0] /home/harivinay/.gradle/caches/transforms-2/files-2.1/2c4100fab893803c6088f4f2c4f4d86f/jetified-places-2.4.0/AndroidManifest.xml:18:13-61
+87            android:windowSoftInputMode="adjustResize" >
+87-->[com.google.android.libraries.places:places:2.4.0] /home/harivinay/.gradle/caches/transforms-2/files-2.1/2c4100fab893803c6088f4f2c4f4d86f/jetified-places-2.4.0/AndroidManifest.xml:19:13-55
+88        </activity> <!-- Needs to be explicitly declared on P+ -->
+89        <uses-library
+89-->[com.google.android.gms:play-services-maps:17.0.1] /home/harivinay/.gradle/caches/transforms-2/files-2.1/ba7e0543cb40c75ad757532a8e8d539b/jetified-play-services-maps-17.0.1/AndroidManifest.xml:39:9-41:40
+90            android:name="org.apache.http.legacy"
+90-->[com.google.android.gms:play-services-maps:17.0.1] /home/harivinay/.gradle/caches/transforms-2/files-2.1/ba7e0543cb40c75ad757532a8e8d539b/jetified-play-services-maps-17.0.1/AndroidManifest.xml:40:13-50
+91            android:required="false" />
+91-->[com.google.android.gms:play-services-maps:17.0.1] /home/harivinay/.gradle/caches/transforms-2/files-2.1/ba7e0543cb40c75ad757532a8e8d539b/jetified-play-services-maps-17.0.1/AndroidManifest.xml:41:13-37
+92
+93        <activity
+93-->[com.google.android.gms:play-services-base:17.5.0] /home/harivinay/.gradle/caches/transforms-2/files-2.1/f74d57e90891c90d03fd5881f1d7a471/jetified-play-services-base-17.5.0/AndroidManifest.xml:23:9-26:75
+94            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+94-->[com.google.android.gms:play-services-base:17.5.0] /home/harivinay/.gradle/caches/transforms-2/files-2.1/f74d57e90891c90d03fd5881f1d7a471/jetified-play-services-base-17.5.0/AndroidManifest.xml:24:13-79
+95            android:exported="false"
+95-->[com.google.android.gms:play-services-base:17.5.0] /home/harivinay/.gradle/caches/transforms-2/files-2.1/f74d57e90891c90d03fd5881f1d7a471/jetified-play-services-base-17.5.0/AndroidManifest.xml:25:13-37
+96            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+96-->[com.google.android.gms:play-services-base:17.5.0] /home/harivinay/.gradle/caches/transforms-2/files-2.1/f74d57e90891c90d03fd5881f1d7a471/jetified-play-services-base-17.5.0/AndroidManifest.xml:26:13-72
+97
+98        <meta-data
+98-->[com.google.android.gms:play-services-basement:17.5.0] /home/harivinay/.gradle/caches/transforms-2/files-2.1/95103fd74dbc97495618c281ba0a76e5/jetified-play-services-basement-17.5.0/AndroidManifest.xml:23:9-25:69
+99            android:name="com.google.android.gms.version"
+99-->[com.google.android.gms:play-services-basement:17.5.0] /home/harivinay/.gradle/caches/transforms-2/files-2.1/95103fd74dbc97495618c281ba0a76e5/jetified-play-services-basement-17.5.0/AndroidManifest.xml:24:13-58
+100            android:value="@integer/google_play_services_version" />
+100-->[com.google.android.gms:play-services-basement:17.5.0] /home/harivinay/.gradle/caches/transforms-2/files-2.1/95103fd74dbc97495618c281ba0a76e5/jetified-play-services-basement-17.5.0/AndroidManifest.xml:25:13-66
+101
+102        <provider
+102-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/harivinay/.gradle/caches/transforms-2/files-2.1/a5bd95f2074b16acd6cf1244b9992579/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
+103            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+103-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/harivinay/.gradle/caches/transforms-2/files-2.1/a5bd95f2074b16acd6cf1244b9992579/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79
+104            android:authorities="earth.devgalileo.travelogue.lifecycle-process"
+104-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/harivinay/.gradle/caches/transforms-2/files-2.1/a5bd95f2074b16acd6cf1244b9992579/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
+105            android:exported="false"
+105-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/harivinay/.gradle/caches/transforms-2/files-2.1/a5bd95f2074b16acd6cf1244b9992579/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
+106            android:multiprocess="true" />
+106-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/harivinay/.gradle/caches/transforms-2/files-2.1/a5bd95f2074b16acd6cf1244b9992579/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
 107
-108        <receiver
-108-->[com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\556f0a670925ef0b1ed14696a39dbb1e\jetified-transport-runtime-2.1.0\AndroidManifest.xml:32:9-34:40
-109            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
-109-->[com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\556f0a670925ef0b1ed14696a39dbb1e\jetified-transport-runtime-2.1.0\AndroidManifest.xml:33:13-132
-110            android:exported="false" />
-110-->[com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\556f0a670925ef0b1ed14696a39dbb1e\jetified-transport-runtime-2.1.0\AndroidManifest.xml:34:13-37
-111
-112        <provider
-112-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\cadd0183903727f145c4a767897d06ac\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:23:9-27:43
-113            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-113-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\cadd0183903727f145c4a767897d06ac\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:24:13-79
-114            android:authorities="earth.devgalileo.travelogue.lifecycle-process"
-114-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\cadd0183903727f145c4a767897d06ac\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:25:13-69
-115            android:exported="false"
-115-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\cadd0183903727f145c4a767897d06ac\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:26:13-37
-116            android:multiprocess="true" />
-116-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Harivinay\.gradle\caches\transforms-2\files-2.1\cadd0183903727f145c4a767897d06ac\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:27:13-40
-117    </application>
-118
-119</manifest>
+108        <service
+108-->[com.google.android.datatransport:transport-backend-cct:2.3.0] /home/harivinay/.gradle/caches/transforms-2/files-2.1/523cc4172df479bd2bc851d793adf852/jetified-transport-backend-cct-2.3.0/AndroidManifest.xml:29:9-35:19
+109            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+109-->[com.google.android.datatransport:transport-backend-cct:2.3.0] /home/harivinay/.gradle/caches/transforms-2/files-2.1/523cc4172df479bd2bc851d793adf852/jetified-transport-backend-cct-2.3.0/AndroidManifest.xml:30:13-103
+110            android:exported="false" >
+110-->[com.google.android.datatransport:transport-backend-cct:2.3.0] /home/harivinay/.gradle/caches/transforms-2/files-2.1/523cc4172df479bd2bc851d793adf852/jetified-transport-backend-cct-2.3.0/AndroidManifest.xml:31:13-37
+111            <meta-data
+111-->[com.google.android.datatransport:transport-backend-cct:2.3.0] /home/harivinay/.gradle/caches/transforms-2/files-2.1/523cc4172df479bd2bc851d793adf852/jetified-transport-backend-cct-2.3.0/AndroidManifest.xml:32:13-34:39
+112                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+112-->[com.google.android.datatransport:transport-backend-cct:2.3.0] /home/harivinay/.gradle/caches/transforms-2/files-2.1/523cc4172df479bd2bc851d793adf852/jetified-transport-backend-cct-2.3.0/AndroidManifest.xml:33:17-94
+113                android:value="cct" />
+113-->[com.google.android.datatransport:transport-backend-cct:2.3.0] /home/harivinay/.gradle/caches/transforms-2/files-2.1/523cc4172df479bd2bc851d793adf852/jetified-transport-backend-cct-2.3.0/AndroidManifest.xml:34:17-36
+114        </service>
+115        <service
+115-->[com.google.android.datatransport:transport-runtime:2.2.3] /home/harivinay/.gradle/caches/transforms-2/files-2.1/cb2f3643d35901d4251121452631bb74/jetified-transport-runtime-2.2.3/AndroidManifest.xml:26:9-30:19
+116            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+116-->[com.google.android.datatransport:transport-runtime:2.2.3] /home/harivinay/.gradle/caches/transforms-2/files-2.1/cb2f3643d35901d4251121452631bb74/jetified-transport-runtime-2.2.3/AndroidManifest.xml:27:13-117
+117            android:exported="false"
+117-->[com.google.android.datatransport:transport-runtime:2.2.3] /home/harivinay/.gradle/caches/transforms-2/files-2.1/cb2f3643d35901d4251121452631bb74/jetified-transport-runtime-2.2.3/AndroidManifest.xml:28:13-37
+118            android:permission="android.permission.BIND_JOB_SERVICE" >
+118-->[com.google.android.datatransport:transport-runtime:2.2.3] /home/harivinay/.gradle/caches/transforms-2/files-2.1/cb2f3643d35901d4251121452631bb74/jetified-transport-runtime-2.2.3/AndroidManifest.xml:29:13-69
+119        </service>
+120
+121        <receiver
+121-->[com.google.android.datatransport:transport-runtime:2.2.3] /home/harivinay/.gradle/caches/transforms-2/files-2.1/cb2f3643d35901d4251121452631bb74/jetified-transport-runtime-2.2.3/AndroidManifest.xml:32:9-34:40
+122            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+122-->[com.google.android.datatransport:transport-runtime:2.2.3] /home/harivinay/.gradle/caches/transforms-2/files-2.1/cb2f3643d35901d4251121452631bb74/jetified-transport-runtime-2.2.3/AndroidManifest.xml:33:13-132
+123            android:exported="false" />
+123-->[com.google.android.datatransport:transport-runtime:2.2.3] /home/harivinay/.gradle/caches/transforms-2/files-2.1/cb2f3643d35901d4251121452631bb74/jetified-transport-runtime-2.2.3/AndroidManifest.xml:34:13-37
+124    </application>
+125
+126</manifest>

@@ -14,7 +14,12 @@
     <string name="btn_text_view_on_map">VIEW ON MAP</string>
     <string name="add_place_select_current_location_text">SELECT CURRENT LOCATION</string>
 
+<<<<<<< HEAD
     <string name="google_maps_api_key">INSERT GOOGLE MAPS API HERE</string>
     <string name="maps_api_v2_key">INSERT GOOGLE PLACES API HERE</string>
+=======
+    <string name="google_maps_api_key">Add_key_here</string>
+    <string name="maps_api_v2_key">Add_key_here</string>
+>>>>>>> f8714a6 (index refresh)
 
 </resources>
